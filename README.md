@@ -1,2 +1,2 @@
-# Effective-C-plus-plus
+# Effective C++
 Effective C++ Programming skill
