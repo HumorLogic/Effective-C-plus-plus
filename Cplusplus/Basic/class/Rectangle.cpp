@@ -1,0 +1,24 @@
+#include "Rectangle.h"
+
+
+
+Rectangle::Rectangle() :width(), height()
+{
+	this->width = 0;
+	this->height = 0;
+}
+
+Rectangle::Rectangle(int h, int w):width(),height()
+{
+	this->width = w;
+	this->height = h;
+}
+
+Rectangle::~Rectangle()
+{
+}
+
+void Rectangle::Draw()
+{
+	std::cout << "Draw a width = "  <<width<<" height = "<<height<<"  Rectangle."<< std::endl;
+}
