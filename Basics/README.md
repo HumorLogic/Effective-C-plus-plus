@@ -23,14 +23,14 @@ std::cout<<"hello world"<<std::endl;
 #define PI 3.141592653
 ``` 
 
-### 2.3 预处理器
-**\#ifdef**
+### 2.3 条件预处理器
+#### 2.3.1 #ifdef
 ``` C++
 #ifdef NULL
   #define NULL 0
 #endif
 ```  
-**\#ifndef**  
+#### 2.3.2 #ifndef
 意思是：if not define，可以避免声明冲突
 ``` C++
 #ifndef CIRCLE_H
@@ -38,7 +38,7 @@ std::cout<<"hello world"<<std::endl;
 class Circle
 {
 ...
-};
+}
 
 #endif
 ```  
