@@ -7,14 +7,14 @@
     
   </tr>
   <tr>
-    <td align="center">一、预备知识</td>
+  <td align="center"><b>一、预备知识</b></td>
   <td><ol><li>注释</li><li>预处理器</li>
     </ol></td>
     
   </tr>
   
   <tr>
-     <td align="center">二、数据类型</td>
+  <td align="center"><b>二、数据类型</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
@@ -32,7 +32,7 @@
   </tr>
   
     <tr>
-     <td align="center">五、数组</td>
+     <td align="center"><b>五、数组</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
@@ -44,7 +44,7 @@
   </tr>
 
  <tr>
-     <td align="center">7、指针</td>
+     <td align="center">七、指针</td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
