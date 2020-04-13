@@ -45,8 +45,7 @@
 
  <tr>
   <td align="center"><b>七、指针</b></td>
-     <td><ol><li></li><li></li>
-    </ol></td>
+  <td><tr><td>1</td><td>2</td></tr></td>
   </tr>
   
 </table>
