@@ -45,7 +45,44 @@
 
  <tr>
   <td align="center"><b>七、指针</b></td>
-  <td></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+ 
+ <tr>
+  <td align="center"><b>八、内存模型指针</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+  <tr>
+  <td align="center"><b>九、结构体</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+ 
+  <tr>
+  <td align="center"><b>十、对象和类</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+  <tr>
+  <td align="center"><b>十一、模板</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+  <tr>
+  <td align="center"><b>十二、STL标准模板库</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+  <tr>
+  <td align="center"><b>十三、容器</b></td>
+  <td><ol><li></li><li></li>
+    </ol></td>
   </tr>
   
 </table>
