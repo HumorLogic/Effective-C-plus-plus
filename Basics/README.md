@@ -26,25 +26,25 @@
   </tr>
   
    <tr>
-     <td align="center">四、控制语句</td>
+  <td align="center"><b>四、控制语句</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
   
-    <tr>
+   <tr>
      <td align="center"><b>五、数组</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
  
  <tr>
-     <td align="center">六、函数</td>
+  <td align="center"><b>六、函数</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
 
  <tr>
-     <td align="center">七、指针</td>
+  <td align="center"><b>七、指针</b></td>
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
