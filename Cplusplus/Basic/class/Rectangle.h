@@ -11,12 +11,16 @@ public:
 	Rectangle(int h, int w);
 	~Rectangle();
 	void Draw();
+	
 
 private:
 	int width;
 	int height;
+	void SetSize(int w, int h);
 
 };
+
+
 
 #endif // !RECTANGLE_H
 
