@@ -1,4 +1,4 @@
-# 目录  
+# C++ 基础知识
 
 <table>
   <tr>
@@ -18,4 +18,35 @@
      <td><ol><li></li><li></li>
     </ol></td>
   </tr>
+  
+  <tr>
+     <td align="center">三、运算符</td>
+     <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+   <tr>
+     <td align="center">四、控制语句</td>
+     <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
+    <tr>
+     <td align="center">五、数组</td>
+     <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+ 
+ <tr>
+     <td align="center">六、函数</td>
+     <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+
+ <tr>
+     <td align="center">7、指针</td>
+     <td><ol><li></li><li></li>
+    </ol></td>
+  </tr>
+  
 </table>
