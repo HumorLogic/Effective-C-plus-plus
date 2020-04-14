@@ -7,8 +7,8 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /bin/
-/Cplusplus/out/
-
+/Cplusplus/out/ 
+/Basics/Code/out/ 
 
 # Visual Studio cache directory
 .vs/

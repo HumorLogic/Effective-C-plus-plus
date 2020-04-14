@@ -10,6 +10,8 @@ Rectangle::Rectangle(int h, int w):width(),height()
 {
 	this->width = w;
 	this->height = h;
+	//(*this).height = 0;
+	//std::cout << this << std::endl;
 }
 
 Rectangle::~Rectangle()

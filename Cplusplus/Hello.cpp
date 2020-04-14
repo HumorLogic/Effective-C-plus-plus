@@ -8,6 +8,12 @@ void ChangeNum(int& n) {
 	n = 0;
 }
 
+void SwapNum(int& aNum, int& bNum) {
+	int temp = aNum;
+	aNum = bNum;
+	bNum = temp;
+}
+
 
 int main() {
 	
@@ -36,6 +42,18 @@ int main() {
 	s2.Show();
 	std::cout << "\n" << std::endl;
 
+	float* p_score;
+	float score = 8.9;
+	p_score = &score;
+
+	std::cout << p_score << std::endl;
+	std::cout << p_score << std::endl;
+
+	int a = 10;
+	int b = 2;
+	std::cout << "a = " << a << "  b = " << b << "\n";
+	SwapNum(a, b);
+	std::cout << "a = " << a << "  b = " << b << "\n";
 
 	return 0;
 }
