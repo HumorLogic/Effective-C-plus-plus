@@ -7,7 +7,7 @@ void Swap(T& a, T& b);
 
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_funtemp() {
 
 	using namespace std;
 
