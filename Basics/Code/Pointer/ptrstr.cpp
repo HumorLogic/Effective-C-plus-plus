@@ -3,7 +3,7 @@
 
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_ptrstr() {
 
 	using namespace std;
 
@@ -31,22 +31,22 @@ int main() {
 	cout << animal << " at " << (int*)animal << endl;
 	cout << ps << " at " << (int*)ps << endl;
 	
-	
+	cout << "-----------animal-------------" << "\n";
 	cout << &animal << endl;
 	cout << (int*)animal<< endl;
 
+	cout << "-------------ps---------------" << "\n";
 	cout << &ps << endl;
 	cout << (int*)ps<< endl;
 	
+	cout << "----------int array------------" << "\n";
 
-	
-
-
-	
-
-
-	
-
+	int arr[] = { 0,8,8,9,9 };
+	cout << arr << endl;
+	cout << &arr << endl;
+	cout << (int*)arr << endl;
+	cout << &(arr[0]) << endl;
+	cout << &(arr[1]) << endl;
 
 
 	return 0;
