@@ -8,7 +8,7 @@
   </tr>
   <tr>
   <td align="center"><b>一、预备知识</b></td>
-  <td>1.注释  &nbsp;<a url="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#pre">2.预处理器</a> &nbsp; 3.头文件</td>
+  <td>1.注释  &nbsp;<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#pre" target="_blank" >2.预处理器</a> &nbsp; 3.头文件</td>
     
   </tr>
   
