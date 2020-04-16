@@ -50,7 +50,7 @@
   </tr>
  
  <tr>
-  <td align="center"><b>八、内存模型指针</b></td>
+  <td align="center"><b>八、内存模型</b></td>
   <td><ol><li></li><li></li>
     </ol></td>
   </tr>
