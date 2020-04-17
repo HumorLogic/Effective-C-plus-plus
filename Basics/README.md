@@ -24,7 +24,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>2、数据类型</b></td>
+  <td align="left"><b>2、变量和类型</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
@@ -62,7 +62,7 @@
   </tr>
   
    <tr>
-     <td align="left"><b>5、数组</b></td>
+     <td align="left"><b>5、复合类型</b></td>
     <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
@@ -112,20 +112,10 @@
   </td>
   </tr>
   
-  <tr>
-  <td align="left"><b>9、结构体</b></td>
-  <td>
-    1.<a href="" target="_blank" >
-      标题1</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="" target="_blank" >
-      标题2</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="" target="_blank" >
-      标题3</a> &nbsp;&nbsp;&nbsp;
-  </td>
-  </tr>
+
  
   <tr>
-  <td align="left"><b>10、对象和类</b></td>
+  <td align="left"><b>9、对象和类</b></td>
   <td>
      1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#obj" target="_blank" >
      面向对象特性</a> &nbsp;&nbsp;&nbsp;
@@ -145,7 +135,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>11、模板</b></td>
+  <td align="left"><b>10、模板</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
@@ -157,7 +147,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>12、STL</b></td>
+  <td align="left"><b>11、STL</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
@@ -169,7 +159,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>13、容器</b></td>
+  <td align="left"><b>12、容器</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题</a> &nbsp;&nbsp;&nbsp;
@@ -181,7 +171,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>14、其他</b></td>
+  <td align="left"><b>13、其他</b></td>
   <td>
     1.<a href="" target="_blank" >
       关键字：extern</a> &nbsp;&nbsp;&nbsp;
