@@ -38,8 +38,7 @@
  
  <tr>
   <td align="center"><b>六、函数</b></td>
-     <td><ol><li></li><li></li>
-    </ol></td>
+     <td>1.函数介绍  &nbsp;<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" >5.函数指针</a> &nbsp; 6.内联函数&nbsp;7.引用变量</td>
   </tr>
 
  <tr>
