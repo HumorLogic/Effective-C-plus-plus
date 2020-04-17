@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th width="180">目录</th>
+    <th width="150">目录</th>
     <th width="600">内容</th>
     
   </tr>
@@ -149,7 +149,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>十二、STL标准模板库</b></td>
+  <td align="left"><b>十二、STL</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
