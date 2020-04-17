@@ -97,4 +97,4 @@
 
 > 内容参考:  
 >[《C++ Primer Plus》](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)  
-> 
+> [cplusplus.com/tutorial](http://www.cplusplus.com/doc/tutorial/)
