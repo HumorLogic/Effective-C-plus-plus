@@ -53,8 +53,14 @@
 
  <tr>
   <td align="center"><b>七、指针</b></td>
-  <td><ol><li></li><li></li>
-    </ol></td>
+  <td>
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#intro" target="_blank">
+      1.指针介绍</a> &nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#de_in" target="_blank">
+      2.指针声明和初始化</a> &nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
+      3.使用new创建动态数组、结构</a> &nbsp;
+  </td>
   </tr>
  
  <tr>
