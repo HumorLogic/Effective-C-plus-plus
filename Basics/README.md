@@ -102,9 +102,9 @@
     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#scope" target="_blank" >
      作用域2</a> &nbsp;&nbsp;&nbsp;
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#linkage" target="_blank" >
-      链接性3</a> &nbsp;&nbsp;&nbsp;
+      链接性</a> &nbsp;&nbsp;&nbsp;
     4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#continuable" target="_blank" >
-      存储持续性3</a> &nbsp;&nbsp;&nbsp;
+      存储持续性</a> &nbsp;&nbsp;&nbsp;
     5.<a href="" target="_blank" >
       </a> &nbsp;&nbsp;&nbsp;
   </td>
