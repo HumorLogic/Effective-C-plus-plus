@@ -9,10 +9,14 @@
   <tr>
   <td align="center"><b>一、预备知识</b></td>
   <td>
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">1.C++介绍</a> &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >2.创建程序</a> &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >3.基本输入/输出</a> &nbsp;
-     <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >4.头文件</a> &nbsp;&nbsp;&nbsp;
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">
+      C++介绍</a> &nbsp;&nbsp;&nbsp;
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >
+      创建程序</a> &nbsp;&nbsp;&nbsp;
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >
+      基本输入/输出</a> &nbsp;
+     4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >
+       头文件</a> &nbsp;&nbsp;&nbsp;
   </td>
     
   </tr>
@@ -94,7 +98,7 @@
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#im_class" target="_blank" >
       定义类成员函数</a> &nbsp;&nbsp;&nbsp;
      4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#use_class" target="_blank" >
-      实用类</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      使用类</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <br>
     5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
       构造函数和析构函数</a> &nbsp;&nbsp;&nbsp;
