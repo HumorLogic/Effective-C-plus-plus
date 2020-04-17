@@ -9,10 +9,10 @@
   <tr>
   <td align="center"><b>一、预备知识</b></td>
   <td>
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">1.C++介绍</a> &nbsp;
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >2.创建程序</a> &nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">1.C++介绍</a> &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >2.创建程序</a> &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >3.基本输入/输出</a> &nbsp;
-     <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >4.头文件</a> &nbsp;
+     <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >4.头文件</a> &nbsp;&nbsp;&nbsp;
   </td>
     
   </tr>
@@ -20,12 +20,12 @@
   <tr>
   <td align="center"><b>二、数据类型</b></td>
   <td>
-    <a href="" target="_blank" >
-      1.</a> &nbsp;
-    <a href="" target="_blank" >
-      2.</a> &nbsp;
-    <a href="" target="_blank" >
-      3.</a> &nbsp;
+    1.<a href="" target="_blank" >
+      标题1</a> &nbsp;&nbsp;&nbsp;
+    2.<a href="" target="_blank" >
+      标题2</a> &nbsp;&nbsp;&nbsp;
+    3.<a href="" target="_blank" >
+      标题3</a> &nbsp;&nbsp;&nbsp;
   
   </td>
   
@@ -68,11 +68,7 @@
       指针声明和初始化</a> &nbsp;
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
       使用new创建动态数组、结构</a> &nbsp;
-    4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#use_class" target="_blank" >
-      实用类</a> &nbsp;
-      <br>
-    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
-      构造函数和析构函数</a> &nbsp;
+   
   </td>
   </tr>
  
@@ -91,12 +87,17 @@
   <tr>
   <td align="center"><b>十、对象和类</b></td>
   <td>
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#obj" target="_blank" >
-      1.面向对象特性</a> &nbsp;
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#create_class" target="_blank" >
-      2.创建一个简单的类</a> &nbsp;
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#im_class" target="_blank" >
-      3.定义类成员函数</a> &nbsp;
+     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#obj" target="_blank" >
+     面向对象特性</a> &nbsp;&nbsp;&nbsp;
+     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#create_class" target="_blank" >
+     创建一个简单的类</a> &nbsp;&nbsp;&nbsp;
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#im_class" target="_blank" >
+      定义类成员函数</a> &nbsp;&nbsp;&nbsp;
+     4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#use_class" target="_blank" >
+      实用类</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <br>
+    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
+      构造函数和析构函数</a> &nbsp;&nbsp;&nbsp;
     
   </td>
   </tr>
