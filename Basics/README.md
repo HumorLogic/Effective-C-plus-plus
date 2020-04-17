@@ -7,7 +7,7 @@
     
   </tr>
   <tr>
-  <td align="left"><b>一、预备知识</b></td>
+  <td align="left"><b>1、预备知识</b></td>
   <td>
     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">
       C++介绍</a> &nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
   </tr>
   
   <tr>
-  <td align="left"><b>二、数据类型</b></td>
+  <td align="left"><b>2、数据类型</b></td>
   <td>
     1.<a href="" target="_blank" >
       标题1</a> &nbsp;&nbsp;&nbsp;
