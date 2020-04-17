@@ -9,6 +9,10 @@ project ("Code")
 # 将源代码添加到此项目的可执行文件。
 add_executable (Code "Code.cpp" "Code.h" "Pointer/use_new.cpp" "Pointer/arraynew.cpp" 
 "空模板.cpp" "Pointer/ptrstr.cpp" "Pointer/newstrct.cpp" "Pointer/delete.cpp" "Function/fun_ptr.cpp"
-"Function/inline.cpp" "Function/sceref.cpp" "Function/swaps.cpp" "Function/funtemp.cpp" "Function/tempover.cpp")
+"Function/inline.cpp" "Function/sceref.cpp" "Function/swaps.cpp" "Function/funtemp.cpp" "Function/tempover.cpp" 
+"MemoryModelAndNameSpace/autoscp.cpp" "MemoryModelAndNameSpace/memory_model.cpp" 
+"MemoryModelAndNameSpace/file1.cpp" "MemoryModelAndNameSpace/file2.cpp" 
+"MemoryModelAndNameSpace/external.cpp" "MemoryModelAndNameSpace/support.cpp" 
+"MemoryModelAndNameSpace/twofile1.cpp" "MemoryModelAndNameSpace/twofile2.cpp" "MemoryModelAndNameSpace/static.cpp")
 
 # TODO: 如有需要，请添加测试并安装目标。

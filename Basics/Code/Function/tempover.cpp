@@ -14,7 +14,7 @@ struct debts {
 };
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_tempover() {
 
 	using namespace std;
 	int things[6] = { 13, 31, 103, 301, 310, 130 };
