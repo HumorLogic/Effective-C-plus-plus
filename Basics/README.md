@@ -8,7 +8,12 @@
   </tr>
   <tr>
   <td align="center"><b>一、预备知识</b></td>
-  <td>1.注释  &nbsp;<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#pre" target="_blank" >2.预处理器</a> &nbsp; 3.头文件</td>
+  <td>
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">1.C++介绍</a> &nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >2.创建程序</a> &nbsp;
+    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >3.基本输入/输出</a> &nbsp;
+     <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >4.头文件</a> &nbsp;
+  </td>
     
   </tr>
   
