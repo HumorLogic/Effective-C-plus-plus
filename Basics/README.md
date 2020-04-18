@@ -33,7 +33,8 @@
       基本数据类型</a> &nbsp;&nbsp;&nbsp;
     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#val" target="_blank" >
       变量</a> &nbsp;&nbsp;&nbsp;
-  
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#hun" target="_blank" >
+      匈牙利命名法</a> &nbsp;&nbsp;&nbsp;
   
   </td>
   
