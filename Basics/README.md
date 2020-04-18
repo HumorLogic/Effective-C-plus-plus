@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th width="150">目录</th>
-    <th width="600">内容</th>
+    <th width="640">内容</th>
     
   </tr>
   <tr>
