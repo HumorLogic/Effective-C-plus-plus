@@ -95,7 +95,8 @@
     <br>
     8.<a href="" target="_blank" >
       数组替代品</a> &nbsp;&nbsp;&nbsp;
-      
+     <br>
+     <br>
       
   </td>
   </tr>
@@ -107,6 +108,8 @@
        <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" > 5.函数指针</a> &nbsp; &nbsp;&nbsp;
        <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#inline" target="_blank">6.内联函数</a> &nbsp;&nbsp;&nbsp;
        7.引用变量
+       <br>
+       <br>
   </td>
   </tr>
 
@@ -119,7 +122,8 @@
       指针声明和初始化</a> &nbsp;&nbsp;&nbsp;
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
       使用new创建动态数组、结构</a> &nbsp;&nbsp;&nbsp;
-   
+   <br>
+   <br>
   </td>
   </tr>
  
@@ -136,6 +140,8 @@
       存储持续性</a> &nbsp;&nbsp;&nbsp;
     5.<a href="" target="_blank" >
       </a> &nbsp;&nbsp;&nbsp;
+    <br>
+    <br>
   </td>
   </tr>
   
@@ -153,10 +159,13 @@
      4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#use_class" target="_blank" >
       使用类</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <br>
+      <br>
     5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
       构造函数和析构函数</a> &nbsp;&nbsp;&nbsp;
     6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#this_p" target="_blank" >
       this指针</a> &nbsp;&nbsp;&nbsp;
+    <br>
+    <br>
     
   </td>
   </tr>
