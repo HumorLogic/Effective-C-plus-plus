@@ -67,11 +67,21 @@
      <td align="left"><b>5、复合类型</b></td>
     <td>
     1.<a href="" target="_blank" >
-      标题1</a> &nbsp;&nbsp;&nbsp;
+      string字符串</a> &nbsp;&nbsp;&nbsp;
     2.<a href="" target="_blank" >
-      标题2</a> &nbsp;&nbsp;&nbsp;
+      数组</a> &nbsp;&nbsp;&nbsp;
     3.<a href="" target="_blank" >
-      标题3</a> &nbsp;&nbsp;&nbsp;
+      结构</a> &nbsp;&nbsp;&nbsp;
+    4.<a href="" target="_blank" >
+      枚举</a> &nbsp;&nbsp;&nbsp;
+    5.<a href="" target="_blank" >
+      共同体</a> &nbsp;&nbsp;&nbsp;
+    6.<a href="" target="_blank" >
+      指针</a> &nbsp;&nbsp;&nbsp;
+    7.<a href="" target="_blank" >
+      类型组合</a> &nbsp;&nbsp;&nbsp;
+    8.<a href="" target="_blank" >
+      数组替代品</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
  
