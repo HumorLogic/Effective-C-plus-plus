@@ -62,11 +62,11 @@
   <td align="left"><b>4、控制语句</b></td>
   <td>
     1.<a href="" target="_blank" >
-      标题1</a> &nbsp;&nbsp;&nbsp;
+      选择语句</a> &nbsp;&nbsp;&nbsp;
     2.<a href="" target="_blank" >
-      标题2</a> &nbsp;&nbsp;&nbsp;
+      迭代语句（循环）</a> &nbsp;&nbsp;&nbsp;
     3.<a href="" target="_blank" >
-      标题3</a> &nbsp;&nbsp;&nbsp;
+      跳转语句</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
   
