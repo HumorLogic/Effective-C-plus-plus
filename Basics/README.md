@@ -29,12 +29,11 @@
   <tr>
   <td align="left"><b>2、变量和类型</b></td>
   <td>
-    1.<a href="" target="_blank" >
-      标题1</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="" target="_blank" >
-      标题2</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="" target="_blank" >
-      标题3</a> &nbsp;&nbsp;&nbsp;
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#type" target="_blank" >
+      基本数据类型</a> &nbsp;&nbsp;&nbsp;
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#val" target="_blank" >
+      变量</a> &nbsp;&nbsp;&nbsp;
+  
   
   </td>
   
