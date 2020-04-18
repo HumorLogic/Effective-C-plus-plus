@@ -100,9 +100,9 @@
  <tr>
   <td align="left"><b>6、函数</b></td>
      <td>
-       1.函数介绍  &nbsp;
-       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" > 5.函数指针</a> &nbsp; 
-       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#inline" target="_blank">6.内联函数</a> &nbsp;
+       1.函数介绍  &nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" > 5.函数指针</a> &nbsp; &nbsp;&nbsp;
+       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#inline" target="_blank">6.内联函数</a> &nbsp;&nbsp;&nbsp;
        7.引用变量
   </td>
   </tr>
@@ -111,11 +111,11 @@
   <td align="left"><b>7、指针</b></td>
   <td>
     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#intro" target="_blank">
-      指针介绍</a> &nbsp;
+      指针介绍</a> &nbsp;&nbsp;&nbsp;
     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#de_in" target="_blank">
-      指针声明和初始化</a> &nbsp;
+      指针声明和初始化</a> &nbsp;&nbsp;&nbsp;
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
-      使用new创建动态数组、结构</a> &nbsp;
+      使用new创建动态数组、结构</a> &nbsp;&nbsp;&nbsp;
    
   </td>
   </tr>
