@@ -321,40 +321,26 @@
 
 ### 2.2 算法
 
+**算法思想：**
+
 <table>
   <tr>
     <th width="150">目录</th>
     <th width="500">内容</th> 
   </tr>
-  <tr> <td align="left" rowspan="5"><b>算法思想</b></td>
+  <tr> <td align="center" rowspan="5"><b>算法思想</b></td>
         <td align="center">贪婪算法</td></tr>
    <tr> <td align="center">分而治之</td></tr>
    <tr> <td align="center">动态规划</td></tr>
    <tr> <td align="center">回溯法</td></tr>
    <tr> <td align="center">分支定界</td></tr>
-  
-  <tr> <td align="left" rowspan="5"><b>排序算法Sort</b></td>
-        <td align="center">冒泡排序</td></tr>
-   <tr> <td align="center">选择排序</td></tr>
-   <tr> <td align="center">快速排序</td></tr>
-   <tr> <td align="center">插入排序</td></tr>
-   <tr> <td align="center">归并排序</td></tr>
-   
-   <tr> <td align="left" rowspan="5"><b>查找算法Find</b></td>
-           <td align="center">顺序表查找</td></tr>
-      <tr> <td align="center">有序表查找</td></tr>
-      <tr> <td align="center">线性索引查找</td></tr>
-      <tr> <td align="center">数表查找</td></tr>
-      <tr> <td align="center">散列表表查找</td></tr>
-      
-  </tr>
-  
+     
  </table>
  
- 
+ **排序算法：**
  <table>
   <tr>
-    <th width="900" colspan="8">排序算法Sort</th>
+    <th width="900" colspan="8">排序算法 Sort Algorithm</th>
   </tr>
   <tr>
     <td><br><b>插入排序</b>：<br><ol><li>直接插入排</li><li>序希尔排序</li></ol></td>
@@ -369,11 +355,11 @@
   
   </table>
   
-  查找算法：
+  **查找算法：**
 <table>
   
   <tr>
-    <th width="800" colspan="5">查找算法Find</th>
+    <th width="800" colspan="5">查找算法 Find Algorithm</th>
   </tr>
   <tr>
      <td><b>顺序表查找</b><br><br><br><br></td>
