@@ -343,7 +343,7 @@
      
  </table>
  
- <p><img height="20"/></p>
+ <p><img height="10"/></p>
  
 #### 2.2.2 排序算法
  <table>
@@ -365,7 +365,7 @@
   </tr>
   </table>
   
-  <p><img height="20"/></p>
+  <p><img height="10"/></p>
   
 #### 2.2.3 查找算法
 <table>
