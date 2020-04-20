@@ -476,6 +476,29 @@
           <li>40：明智而审慎地使用多重继承</li>
       </ul></td>
   </tr>
+    <tr>
+   <td align="left"><br><b>7.模板与泛型编程</b>：<br>
+      <ul>
+          <br>
+          <li>41：了解隐式接口和编译期多态</li>
+          <li>42：了解typename的双重意义</li>
+          <li>43：学习处理模板化基类内的名称</li>
+          <li>44：将参与无关的代码抽离templates</li>
+          <li>45：运用成员函数模板接受多有兼容类型</li>
+          <li>46：需要类型转换时请为模板定义非成员函数</li>
+          <li>47：请使用traits classes表现类型信息</li>
+          <li>48：认识template元编程</li>
+      </ul></td>
+      <td align="left"><br><b>8.定制new和delete</b>：<br>
+      <ul>
+          <br><br>
+          <li>49：了解new-handler的行为</li>
+          <li>50：了解new和delete的合理替换时机</li>
+          <li>51：编写new和delete时需要固守常规</li>
+          <li>52：写了placement new 也要写placement delete</li>
+          <br><br><br>
+      </ul></td>
+  </tr>
 </table>
 
 
