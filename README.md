@@ -347,17 +347,17 @@
     <th width="600" colspan="4">排序算法 Sort Algorithm</th>
   </tr>
   <tr>
-    <td><br><b>插入排序</b>：<br><ol><li>直接插入排</li><li>序希尔排序</li></ol></td>
-    <td><br><b>选择排序</b>：<br><ol><li>简单选择排序</li><li>堆排序</li></ol></td>
-    <td><br><b>交换排序</b>：<br><ol><li>冒泡排序</li><li>快速排序</li></ol></td>
-    <td><b>归并排序</b><br><br><br></td>
+    <td><br><b>1.插入排序</b>：<br><ul><li>直接插入排</li><li>序希尔排序</li></ul></td>
+    <td><br><b>2.选择排序</b>：<br><ul><li>简单选择排序</li><li>堆排序</li></ul></td>
+    <td><br><b>3.交换排序</b>：<br><ul><li>冒泡排序</li><li>快速排序</li></ul></td>
+    <td><b>4.归并排序</b><br><br><br></td>
   </tr>
   
   <tr>
-    <td><br><b>横排序</b><br><br>
-    <td><br><b>计数排序</b><br><br>
-    <td><br><b>桶排序</b><br><br>
-    <td><br><b>基数排序</b><br><br>
+    <td><br><b>5.横排序</b><br><br>
+    <td><br><b>6.计数排序</b><br><br>
+    <td><br><b>7.桶排序</b><br><br>
+    <td><br><b>8.基数排序</b><br><br>
   </tr>
   </table>
   
@@ -368,11 +368,11 @@
     <th width="700" colspan="5">查找算法 Find Algorithm</th>
   </tr>
   <tr>
-     <td><b>顺序表查找</b><br><br><br><br></td>
-    <td><br><b>有序表查找</b>：<br><ol><li>二分查找</li><li>插值查找</li><li>斐波那契查找</li></ol></td>
-   <td><br><b>线性索引查找</b>：<br><ol><li>稠密索引</li><li>分块索引</li><li>倒排索引</li></ol></td>
-    <td><br><b>树表查找</b>：<br><ol><li>二叉查找树</li><li>平衡查找树</li><li>多路查找树</li></ol></td>
-    <td><br><b>散列表查找</b>：<br><ol><li>散列函数</li><li>冲突处理</li></ol><br></td>
+     <td><b>1.顺序表查找</b><br><br><br><br></td>
+    <td><br><b>2.有序表查找</b>：<br><ul><li>二分查找</li><li>插值查找</li><li>斐波那契查找</li></ul></td>
+   <td><br><b>3.线性索引查找</b>：<br><ul><li>稠密索引</li><li>分块索引</li><li>倒排索引</li></ul></td>
+    <td><br><b>4.树表查找</b>：<br><ul><li>二叉查找树</li><li>平衡查找树</li><li>多路查找树</li></ul></td>
+    <td><br><b>5.散列表查找</b>：<br><ul><li>散列函数</li><li>冲突处理</li></ul><br></td>
     
   </tr>
 </table>
