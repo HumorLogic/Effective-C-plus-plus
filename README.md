@@ -351,3 +351,20 @@
   
  </table>
  
+ 
+ <table>
+  <tr>
+    <th width="800" colspan="8">排序算法Sort</th>
+  </tr>
+  <tr>
+    <td>插入排序</td>
+    <td>选择排序</td>
+    <td>交换排序</td>
+    <td>归并排序</td>
+    <td>横排序</td>
+    <td>计数排序</td>
+    <td>桶排序</td>
+    <td>基数排序</td>
+  </tr>
+  
+  </table>
