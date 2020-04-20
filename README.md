@@ -386,28 +386,54 @@
     <th width="1000" colspan="2">改善程序与设计的55个具体做法</th>
   </tr>
   <tr>
-    <td align="left" width="333"><br><b>1.让自己习惯C++</b>：<br>
+    <td align="left"><br><b>1.让自己习惯C++</b>：<br>
       <ul>
           <br><br>
           <li>01：视C++为一个语言联邦</li>
-          <li>02：尽量以const，enums，inline，替换#define</li>
-          <li>03：尽可能使用const</li>
+          <li>02：尽量以<code>const</code>，<code>enums</code>，<code>inline</code>，替换<code>#define</code></li>
+          <li>03：尽可能使用<code>const</code></li>
           <li>04：确定对象被使用前已被初始化</li>
           <br><br><br>
       </ul></td>
   
-   <td align="left" width="333"><br><b>2.构造/析构/赋值运算</b>：<br>
-      <ul><li>05：了解C++默默编写并调用哪些函数</li>
+   <td align="left"><br><b>2.构造/析构/赋值运算</b>：<br>
+      <ul>
+          <br>
+          <li>05：了解C++默默编写并调用哪些函数</li>
           <li>06：若不想使用编译器自动生成的函数，就该明确拒绝</li>
-          <li>07：为多态基类声明virtual析构函数</li>
+          <li>07：为多态基类声明<code>virtual</code>析构函数</li>
           <li>08：别让异常逃离析构函数</li>
-          <li>09：绝不在构造和析构过程中调用virtual函数</li>
-          <li>10：令operator= 返回一个reference to <b>*this</b></li>
-          <li>11：在operator= 中处理“自我赋值”</li>
+          <li>09：绝不在构造和析构过程中调用<code>virtual</code>函数</li>
+          <li>10：令<code>operator=</code> 返回一个<code>reference to <b>*this</b></code></li>
+          <li>11：在<code>operator= </code>中处理“自我赋值”</li>
           <li>12：复制对象时勿忘其中每一个成分</li>
       </ul></td>
-
-    
+  </tr>
+  
+  <tr>
+    <td align="left"><br><b>3.资源管理</b>：<br>
+      <ul>
+          <br><br>
+          <li>13：以对象管理资源</li>
+          <li>14：在资源管理类中小心<code><i>copying</i></code>行为</li>
+          <li>15：在资源类中提供对原始资源的访问</li>
+          <li>16：成对使用new和delete时要采取相同形式</li>
+          <li>17：以独立语句将newed对象置入智能指针</li>
+          <br><br><br>
+      </ul></td>
+  
+   <td align="left"><br><b>4.设计与声明</b>：<br>
+      <ul>
+          <br>
+          <li>18：让接口容易被正确使用，不易被无用</li>
+          <li>19：设计class时犹如设计type</li>
+          <li>20：宁以pass-by-reference-to-const替换pass-by-value</li>
+          <li>21：必须返回对象时，别妄想返回其reference</li>
+          <li>22：将成员变量声明为private</li>
+          <li>23：宁以non-member、non-friend替换member函数</li>
+          <li>24：若所有参数皆需要类型转换，请为此采用non-member函数</li>
+          <li>25：考虑写出一个不抛出异常的swap函数</li>
+      </ul></td>
   </tr>
 </table>
 
