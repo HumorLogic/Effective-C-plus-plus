@@ -280,7 +280,7 @@
 ### 2.1 数据结构
 <table>
   <tr>
-    <th width="200">目录</th>
+    <th width="150">目录</th>
     <th width="500">内容</th> 
   </tr>
   
