@@ -365,11 +365,11 @@
 <table>
   
   <tr>
-    <th width="800" colspan="5">查找算法 Find Algorithm</th>
+    <th width="700" colspan="5">查找算法 Find Algorithm</th>
   </tr>
   <tr>
      <td><b>顺序表查找</b><br><br><br><br></td>
-    <td><br><b>有序表查找</b>：<br><ol><li>二分查找</li><li>插值查找</li><li>斐波那契查找查找</li></ol></td>
+    <td><br><b>有序表查找</b>：<br><ol><li>二分查找</li><li>插值查找</li><li>斐波那契查找</li></ol></td>
    <td><br><b>线性索引查找</b>：<br><ol><li>稠密索引</li><li>分块索引</li><li>倒排索引</li></ol></td>
     <td><br><b>树表查找</b>：<br><ol><li>二叉查找树</li><li>平衡查找树</li><li>多路查找树</li></ol></td>
     <td><br><b>散列表查找</b>：<br><ol><li>散列函数</li><li>冲突处理</li></ol><br></td>
