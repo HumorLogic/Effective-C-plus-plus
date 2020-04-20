@@ -56,7 +56,7 @@
     5.<a href="" target="_blank" >
       赋值运算符</a> &nbsp;&nbsp;&nbsp;
     6.<a href="" target="_blank" >
-      杂项算符</a> &nbsp;&nbsp;&nbsp;
+      杂项运算符</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
   
