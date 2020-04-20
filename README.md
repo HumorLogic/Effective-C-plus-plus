@@ -329,8 +329,8 @@
 
 <table>
   <tr>
-    <th width="150">目录</th>
-    <th width="500">内容</th> 
+    <th width="100">目录</th>
+    <th width="200">内容</th> 
   </tr>
   <tr> <td align="center" rowspan="5"><b>算法思想</b></td>
         <td align="center">贪婪算法</td></tr>
@@ -344,19 +344,21 @@
 #### 2.2.2 排序算法
  <table>
   <tr>
-    <th width="900" colspan="8">排序算法 Sort Algorithm</th>
+    <th width="600" colspan="4">排序算法 Sort Algorithm</th>
   </tr>
   <tr>
     <td><br><b>插入排序</b>：<br><ol><li>直接插入排</li><li>序希尔排序</li></ol></td>
     <td><br><b>选择排序</b>：<br><ol><li>简单选择排序</li><li>堆排序</li></ol></td>
     <td><br><b>交换排序</b>：<br><ol><li>冒泡排序</li><li>快速排序</li></ol></td>
     <td><b>归并排序</b><br><br><br></td>
-    <td><b>横排序</b><br><br><br></td>
-    <td><b>计数排序</b><br><br><br></td>
-    <td><b>桶排序</b><br><br><br></td>
-    <td><b>基数排序</b><br><br><br></td>
   </tr>
   
+  <tr>
+    <td><br><b>横排序</b><br><br>
+    <td><br><b>计数排序</b><br><br>
+    <td><br><b>桶排序</b><br><br>
+    <td><br><b>基数排序</b><br><br>
+  </tr>
   </table>
   
 #### 2.2.3 查找算法
