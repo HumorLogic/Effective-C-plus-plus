@@ -378,6 +378,37 @@
 ----------------
 
 ## 3. 编程思想  
->一下内容为《Effective C++：改善程序与设计的55个具体做法》-- Scott Meyers中的55个建议。
+>一下内容为《Effective C++：改善程序与设计的55个具体做法》-- Scott Meyers中的55个建议。  
+
+<table>
+  
+  <tr>
+    <th width="1000" colspan="2">改善程序与设计的55个具体做法</th>
+  </tr>
+  <tr>
+    <td align="left" width="333"><br><b>1.让自己习惯C++</b>：<br>
+      <ul>
+          <br><br>
+          <li>01：视C++为一个语言联邦</li>
+          <li>02：尽量以const，enums，inline，替换#define</li>
+          <li>03：尽可能使用const</li>
+          <li>04：确定对象被使用前已被初始化</li>
+          <br><br><br>
+      </ul></td>
+  
+   <td align="left" width="333"><br><b>2.构造/析构/赋值运算</b>：<br>
+      <ul><li>05：了解C++默默编写并调用哪些函数</li>
+          <li>06：若不想使用编译器自动生成的函数，就该明确拒绝</li>
+          <li>07：为多态基类声明virtual析构函数</li>
+          <li>08：别让异常逃离析构函数</li>
+          <li>09：绝不在构造和析构过程中调用virtual函数</li>
+          <li>10：令operator= 返回一个reference to <b>*this</b></li>
+          <li>11：在operator= 中处理“自我赋值”</li>
+          <li>12：复制对象时勿忘其中每一个成分</li>
+      </ul></td>
+
+    
+  </tr>
+</table>
 
 
