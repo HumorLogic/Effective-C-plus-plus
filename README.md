@@ -389,7 +389,7 @@
 <a id="thought"></a>
 ## 3. 编程思想  
 <p align="left">  
-    <blockquote><img  src="/Imgs/ecc.png" width="80"  alt="logo"/>  &nbsp; &nbsp; &nbsp;以下内容为《Effective C++：改善程序与设计的55个具体做法》-- Scott Meyers中的55个建议。</blockquote>
+    <blockquote><img  src="/Imgs/ecc.png" width="80"  alt="logo"/>  &nbsp; &nbsp; &nbsp;<i>以下内容为《Effective C++：改善程序与设计的55个具体做法》—— Scott Meyers中的55个建议。</i></blockquote>
 </p>  
 
 
