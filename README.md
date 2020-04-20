@@ -506,7 +506,7 @@
           <li>53：不要轻忽编译器的警告</li>
           <li>54：让自己熟悉包括TR1在内的标准程序库</li>
           <li>55：让自己熟悉Boost</li>
-          <br><br>
+          <br>
       </ul></td>
       <td align="left"><br><b>10.更多</b>：<br>
       <ul>
