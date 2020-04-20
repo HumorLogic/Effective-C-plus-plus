@@ -284,35 +284,35 @@
     <th width="500">内容</th> 
   </tr>
   
-  <tr> <td align="center"><b>数组Array</b></td>
+  <tr> <td align="left"><b>数组Array</b></td>
        <td>内容</td> 
   </tr>
   
-   <tr> <td align="center"><b>链表Linked List</b></td>
+   <tr> <td align="left"><b>链表Linked List</b></td>
        <td>内容</td> 
   </tr>
  
-   <tr> <td align="center"><b>栈Stack</b></td>
+   <tr> <td align="left"><b>栈Stack</b></td>
        <td>内容</td> 
   </tr>
   
-  <tr> <td align="center"><b>队列Queue</b></td>
+  <tr> <td align="left"><b>队列Queue</b></td>
        <td>内容</td> 
   </tr>
   
-  <tr> <td align="center"><b>堆Heap</b></td>
+  <tr> <td align="left"><b>堆Heap</b></td>
        <td>内容</td> 
   </tr>
   
-  <tr> <td align="center"><b>散列表Hash</b></td>
+  <tr> <td align="left"><b>散列表Hash</b></td>
        <td>内容</td> 
   </tr>
   
-  <tr> <td align="center"><b>图Graph</b></td>
+  <tr> <td align="left"><b>图Graph</b></td>
        <td>内容</td> 
   </tr>
   
-  <tr> <td align="center"><b>树Tree</b></td>
+  <tr> <td align="left"><b>树Tree</b></td>
        <td>内容</td> 
   </tr>
   
