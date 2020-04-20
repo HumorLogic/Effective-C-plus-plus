@@ -272,6 +272,8 @@
 > 内容参考:  
 >[《C++ Primer Plus》](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)、[cplusplus.com/tutorial](http://www.cplusplus.com/doc/tutorial/)
 
+<p><img height="30"/></p>
+
 ------------
 
 <a id="dsal"></a>
@@ -341,6 +343,8 @@
      
  </table>
  
+ <p><img height="20"/></p>
+ 
 #### 2.2.2 排序算法
  <table>
   <tr>
@@ -361,6 +365,8 @@
   </tr>
   </table>
   
+  <p><img height="20"/></p>
+  
 #### 2.2.3 查找算法
 <table>
   
@@ -376,6 +382,8 @@
     
   </tr>
 </table>
+
+<p><img height="30"/></p>
 
 ----------------
 
