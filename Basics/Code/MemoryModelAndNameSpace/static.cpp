@@ -1,12 +1,13 @@
 // static.cpp -- using a static local variable
 #include <iostream>
 // constants
-const int ArSize = 10;
+const int ArSize = 50;
 
 // function prototype
 void strcount(const char * str);
 
-int main()
+// 把main_*() 改为main()再运行
+int main_static()
 {
     using namespace std;
     char input[ArSize];
@@ -17,6 +18,7 @@ int main()
     while (cin)
     {
         cin.get(next);
+        cout << next;
         while (next != '\n')    // string didn't fit!
             cin.get(next);      // dispose of remainder
         strcount(input);
