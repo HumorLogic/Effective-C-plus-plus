@@ -174,19 +174,6 @@
   <td align="left"><b>10、面向对象特性</b></td>
   <td>
     1.<a href="" target="_blank" >
-      标题1</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="" target="_blank" >
-      标题2</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="" target="_blank" >
-      标题3</a> &nbsp;&nbsp;&nbsp;
-  </td>
-  </tr>
-  
-  
-  <tr>
-  <td align="left"><b>11、模板</b></td>
-  <td>
-    1.<a href="" target="_blank" >
       继承</a> &nbsp;&nbsp;&nbsp;
     2.<a href="" target="_blank" >
       多态</a> &nbsp;&nbsp;&nbsp;
@@ -202,6 +189,21 @@
       接口</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
+  
+  <tr>
+  <td align="left"><b>11、模板</b></td>
+  <td>
+    1.<a href="" target="_blank" >
+      标题1</a> &nbsp;&nbsp;&nbsp;
+    2.<a href="" target="_blank" >
+      标题2</a> &nbsp;&nbsp;&nbsp;
+    3.<a href="" target="_blank" >
+      标题3</a> &nbsp;&nbsp;&nbsp;
+  </td>
+  </tr>
+  
+  
+  
   
   <tr>
   <td align="left"><b>12、STL</b></td>
