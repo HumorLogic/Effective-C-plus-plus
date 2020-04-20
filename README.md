@@ -496,7 +496,7 @@
           <li>50：了解new和delete的合理替换时机</li>
           <li>51：编写new和delete时需要固守常规</li>
           <li>52：写了placement new 也要写placement delete</li>
-          <br><br><br>
+          <br><br><br><br>
       </ul></td>
   </tr>
 </table>
