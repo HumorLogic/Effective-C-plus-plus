@@ -430,8 +430,8 @@
           <li>13：以对象管理资源</li>
           <li>14：在资源管理类中小心<code><i>copying</i></code>行为</li>
           <li>15：在资源类中提供对原始资源的访问</li>
-          <li>16：成对使用new和delete时要采取相同形式</li>
-          <li>17：以独立语句将newed对象置入智能指针</li>
+          <li>16：成对使用<code>new</code>和<code>delete</code>时要采取相同形式</li>
+          <li>17：以独立语句将<code>newed</code>对象置入智能指针</li>
           <br><br><br>
       </ul></td>
   
@@ -439,13 +439,13 @@
       <ul>
           <br>
           <li>18：让接口容易被正确使用，不易被无用</li>
-          <li>19：设计class时犹如设计type</li>
-          <li>20：宁以pass-by-reference-to-const替换pass-by-value</li>
-          <li>21：必须返回对象时，别妄想返回其reference</li>
-          <li>22：将成员变量声明为private</li>
-          <li>23：宁以non-member、non-friend替换member函数</li>
-          <li>24：若所有参数皆需要类型转换，请为此采用non-member函数</li>
-          <li>25：考虑写出一个不抛出异常的swap函数</li>
+          <li>19：设计<b>class</b>时犹如设计<b>type</b></li>
+          <li>20：宁以<b>pass-by-reference-to-const</b>替换<b>pass-by-value</b></li>
+          <li>21：必须返回对象时，别妄想返回其<code>reference</code></li>
+          <li>22：将成员变量声明为<code>private</code></li>
+          <li>23：宁以<code>non-member</code>、<code>non-friend</code>替换<code>member</code>函数</li>
+          <li>24：若所有参数皆需要类型转换，请为此采用<code>non-member</code>函数</li>
+          <li>25：考虑写出一个不抛出异常的<code>swap</code>函数</li>
       </ul></td>
   </tr>
   
@@ -455,9 +455,9 @@
           <br><br>
           <li>26：尽可能延后变量定义式的出现时间</li>
           <li>27：尽量少做转型动作</li>
-          <li>28：避免返回handles指向面向对象内部成分</li>
+          <li>28：避免返回<code>handles</code>指向面向对象内部成分</li>
           <li>29：为“异常安全”而努力是值得的</li>
-          <li>30：透彻了解inlining的里里外外</li>
+          <li>30：透彻了解<code>inlining</code>的里里外外</li>
           <li>31：将文件间的编译依存关系降至最低</li>
           <br><br>
       </ul></td>
@@ -465,14 +465,14 @@
    <td align="left"><br><b>6.继承与面向对象设计</b>：<br>
       <ul>
           <br>
-          <li>32：确定你的public继承塑模出is-a关系</li>
+          <li>32：确定你的<code>public</code>继承塑模出<b>is-a</b>关系</li>
           <li>33：避免遮遮掩掩而来的名称</li>
           <li>34：区分接口继承和实现继承</li>
-          <li>35：考虑virtual函数以外的其他选择</li>
-          <li>36：绝不重新定义继承而来的non-virtual函数</li>
+          <li>35：考虑<code>virtual</code>函数以外的其他选择</li>
+          <li>36：绝不重新定义继承而来的<code>non-virtual</code>函数</li>
           <li>37：绝不重新定义继承而来的缺省参数值</li>
-          <li>38：通过复合模出has-a或“根据某物实现出”</li>
-          <li>39：明智而审慎地使用private继承</li>
+          <li>38：通过复合模出<b>has-a</b>或“根据某物实现出”</li>
+          <li>39：明智而审慎地使用<code>private</code>继承</li>
           <li>40：明智而审慎地使用多重继承</li>
       </ul></td>
   </tr>
@@ -481,24 +481,41 @@
       <ul>
           <br>
           <li>41：了解隐式接口和编译期多态</li>
-          <li>42：了解typename的双重意义</li>
+          <li>42：了解<code>typename</code>的双重意义</li>
           <li>43：学习处理模板化基类内的名称</li>
-          <li>44：将参与无关的代码抽离templates</li>
+          <li>44：将参与无关的代码抽离<code>templates</code></li>
           <li>45：运用成员函数模板接受多有兼容类型</li>
           <li>46：需要类型转换时请为模板定义非成员函数</li>
-          <li>47：请使用traits classes表现类型信息</li>
-          <li>48：认识template元编程</li>
+          <li>47：请使用<code>traits classes</code>表现类型信息</li>
+          <li>48：认识<code>template</code>元编程</li>
       </ul></td>
       <td align="left"><br><b>8.定制new和delete</b>：<br>
       <ul>
           <br><br>
-          <li>49：了解new-handler的行为</li>
-          <li>50：了解new和delete的合理替换时机</li>
-          <li>51：编写new和delete时需要固守常规</li>
-          <li>52：写了placement new 也要写placement delete</li>
+          <li>49：了解<code>new-handler</code>的行为</li>
+          <li>50：了解<code>new</code>和<code>delete</code>的合理替换时机</li>
+          <li>51：编写<code>new</code>和<code>delete</code>时需要固守常规</li>
+          <li>52：写了<code>placement new</code> 也要写<code>placement delete</code></li>
           <br><br><br><br>
       </ul></td>
   </tr>
+   <tr>
+   <td align="left"><br><b>9.杂项讨论</b>：<br>
+      <ul>
+          <br>
+          <li>53：不要轻忽编译器的警告</li>
+          <li>54：让自己熟悉包括TR1在内的标准程序库</li>
+          <li>55：让自己熟悉Boost</li>
+          <br><br>
+      </ul></td>
+      <td align="left"><br><b>10.更多</b>：<br>
+      <ul>
+          <br><br>
+          <li>...</li>
+          <br><br>
+      </ul></td>
+  </tr>
+  
 </table>
 
 
