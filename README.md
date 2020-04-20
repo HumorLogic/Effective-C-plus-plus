@@ -1,5 +1,9 @@
 # Effective C++
-*关于C++编程技术知识结构的整理总结*
+
+<p align="center">  
+  <i>关于C++编程技术知识结构的整理总结</i>
+  <img src="/Imgs/cpp.png" width="100"  alt="logo"/>   
+</p>  
 
 **目录：**
 1. C++技术知识
