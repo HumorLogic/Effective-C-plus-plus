@@ -357,14 +357,14 @@
     <th width="800" colspan="8">排序算法Sort</th>
   </tr>
   <tr>
-    <td>插入排序</td>
-    <td>选择排序</td>
-    <td>交换排序</td>
-    <td>归并排序</td>
-    <td>横排序</td>
-    <td>计数排序</td>
-    <td>桶排序</td>
-    <td>基数排序</td>
+    <td><br><b>插入排序</b>：<br><ol><li>直接插入排</li><li>序希尔排序</li></ol></td>
+    <td><br><b>选择排序</b>：<br><ol><li>简单选择排序</li><li>堆排序</li></ol></td>
+    <td><br><b>交换排序</b>：<br><ol><li>冒泡排序</li><li>快速排序</li></ol></td>
+    <td><b>归并排序</b><br><br><br></td>
+    <td><b>横排序</b><br><br><br></td>
+    <td><b>计数排序</b><br><br><br></td>
+    <td><b>桶排序</b><br><br><br></td>
+    <td><b>基数排序</b><br><br><br></td>
   </tr>
   
   </table>
