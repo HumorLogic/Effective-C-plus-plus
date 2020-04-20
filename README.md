@@ -386,7 +386,7 @@
 <p><img height="30"/></p>
 
 ----------------
-
+<a id="thought"></a>
 ## 3. 编程思想  
 >一下内容为《Effective C++：改善程序与设计的55个具体做法》-- Scott Meyers中的55个建议。  
 
