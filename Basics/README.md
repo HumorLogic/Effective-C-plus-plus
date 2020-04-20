@@ -181,11 +181,11 @@
       抽象</a> &nbsp;&nbsp;&nbsp;
     4.<a href="" target="_blank" >
       友元</a> &nbsp;&nbsp;&nbsp;
-    6.<a href="" target="_blank" >
+    5.<a href="" target="_blank" >
       重载</a> &nbsp;&nbsp;&nbsp;
-    7.<a href="" target="_blank" >
+    6.<a href="" target="_blank" >
       封装</a> &nbsp;&nbsp;&nbsp;
-    8.<a href="" target="_blank" >
+    7.<a href="" target="_blank" >
       接口</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
