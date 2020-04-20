@@ -1,8 +1,7 @@
-# Effective C++
+# Effective <img src="/Imgs/cpp02.png" width="80"  alt="logo"/> 
 
-<p align="center">  
-  <i>关于C++编程技术知识结构的整理总结</i>
-  <img src="/Imgs/cpp.png" width="100"  alt="logo"/>   
+<p align="left">  
+  <img src="/Imgs/cpp02.png" width="100"  alt="logo"/>    <i>关于C++编程技术知识结构的整理总结</i>
 </p>  
 
 **目录：**
