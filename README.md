@@ -315,11 +315,39 @@
   <tr> <td align="left"><b>树Tree</b></td>
        <td>内容</td> 
   </tr>
-  
    
-  
-  
 </table>
 
 
 ### 2.2 算法
+
+<table>
+  <tr>
+    <th width="150">目录</th>
+    <th width="500">内容</th> 
+  </tr>
+  <tr> <td align="left" rowspan="5"><b>算法思想</b></td>
+        <td align="center">贪婪算法</td></tr>
+   <tr> <td align="center">分而治之</td></tr>
+   <tr> <td align="center">动态规划</td></tr>
+   <tr> <td align="center">回溯法</td></tr>
+   <tr> <td align="center">分支定界</td></tr>
+  
+  <tr> <td align="left" rowspan="5"><b>排序算法Sort</b></td>
+        <td align="center">冒泡排序</td></tr>
+   <tr> <td align="center">选择排序</td></tr>
+   <tr> <td align="center">快速排序</td></tr>
+   <tr> <td align="center">插入排序</td></tr>
+   <tr> <td align="center">归并排序</td></tr>
+   
+   <tr> <td align="left" rowspan="5"><b>查找算法Find</b></td>
+           <td align="center">顺序表查找</td></tr>
+      <tr> <td align="center">有序表查找</td></tr>
+      <tr> <td align="center">线性索引查找</td></tr>
+      <tr> <td align="center">数表查找</td></tr>
+      <tr> <td align="center">散列表表查找</td></tr>
+      
+  </tr>
+  
+ </table>
+ 
