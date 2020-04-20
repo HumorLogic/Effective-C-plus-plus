@@ -354,7 +354,7 @@
  
  <table>
   <tr>
-    <th width="800" colspan="8">排序算法Sort</th>
+    <th width="900" colspan="8">排序算法Sort</th>
   </tr>
   <tr>
     <td><br><b>插入排序</b>：<br><ol><li>直接插入排</li><li>序希尔排序</li></ol></td>
@@ -366,5 +366,23 @@
     <td><b>桶排序</b><br><br><br></td>
     <td><b>基数排序</b><br><br><br></td>
   </tr>
+   
+  
+  
   
   </table>
+  
+  查找算法：
+<table>
+  
+  <tr>
+    <th width="800" colspan="5">查找算法Find</th>
+  </tr>
+  <tr>
+     <td><b>归并排序</b><br><br><br></td>
+    <td><b>横排序</b><br><br><br></td>
+    <td><b>计数排序</b><br><br><br></td>
+    <td><b>桶排序</b><br><br><br></td>
+    <td><b>基数排序</b><br><br><br></td>
+  </tr>
+</table>
