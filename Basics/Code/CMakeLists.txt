@@ -13,6 +13,12 @@ add_executable (Code "Code.cpp" "Code.h" "Pointer/use_new.cpp" "Pointer/arraynew
 "MemoryModelAndNameSpace/autoscp.cpp" "MemoryModelAndNameSpace/memory_model.cpp" 
 "MemoryModelAndNameSpace/file1.cpp" "MemoryModelAndNameSpace/file2.cpp" 
 "MemoryModelAndNameSpace/external.cpp" "MemoryModelAndNameSpace/support.cpp" 
-"MemoryModelAndNameSpace/twofile1.cpp" "MemoryModelAndNameSpace/twofile2.cpp" "MemoryModelAndNameSpace/static.cpp" "VariableAndType/type.cpp" "VariableAndType/arith.cpp" "VariableAndType/assign.cpp" "VariableAndType/bondini.cpp" "VariableAndType/chartype.cpp" "Operator/divide.cpp" "VariableAndType/exceed.cpp" "VariableAndType/floatnum.cpp" "VariableAndType/fltadd.cpp" "VariableAndType/hexoct1.cpp" "VariableAndType/hexoct2.cpp" "VariableAndType/init.cpp" "VariableAndType/limits.cpp" "VariableAndType/modulus.cpp" "VariableAndType/morechar.cpp" "Operator/typecast.cpp")
+"MemoryModelAndNameSpace/twofile1.cpp" "MemoryModelAndNameSpace/twofile2.cpp" 
+"MemoryModelAndNameSpace/static.cpp" "VariableAndType/type.cpp" "Operator/arith.cpp" 
+"Operator/assign.cpp" "VariableAndType/bondini.cpp" "VariableAndType/chartype.cpp" 
+"Operator/divide.cpp" "VariableAndType/exceed.cpp" "VariableAndType/floatnum.cpp" 
+"VariableAndType/fltadd.cpp" "VariableAndType/hexoct1.cpp" "VariableAndType/hexoct2.cpp" 
+"VariableAndType/init.cpp" "VariableAndType/limits.cpp" "Operator/modulus.cpp" 
+"VariableAndType/morechar.cpp" "Operator/typecast.cpp" "CompoundDataTypes/structur.cpp")
 
 # TODO: 如有需要，请添加测试并安装目标。
