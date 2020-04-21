@@ -2,7 +2,7 @@
 
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_union() {
 
 	using namespace std;
 	union one4all {
