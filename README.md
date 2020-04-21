@@ -182,6 +182,10 @@
       构造函数和析构函数</a> &nbsp;&nbsp;&nbsp;
     6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#this_p" target="_blank" >
       this指针</a> &nbsp;&nbsp;&nbsp;
+     7.<a href="" target="_blank" >
+      其他</a> &nbsp;&nbsp;&nbsp;
+     8.<a href="" target="_blank" >
+      抽象数据类型</a> &nbsp;&nbsp;&nbsp;
     <br>
     <br>
     
