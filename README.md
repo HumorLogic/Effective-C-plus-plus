@@ -534,9 +534,10 @@
 > 设计模式的核心是抽象，通过抽象来进行复杂度管理。  
   
   
-  
+  <p><img height="5"/></p>
   
 ### 4.2 面向对象设计7大原则 
+ <p></p>
 
 |   <img width="50"/>原则    | <img width="300"/>内容   |
 | :--------|:-----| 
@@ -548,7 +549,11 @@
 |**[⑥迪米特原则LKP](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99)**|<ol><li>一个类对于其他类知道的越少越好，就是说一个对象应当对其他对象有尽可能少的了解，只和朋友通信，不和陌生人说话。</li><li>如果一个类需要调用另一个类的方法的话，可以通过第三者转发这个调用。</li></ol>|
 |**⑦合成复用原则CRP**|<ol><li>尽量使用合成/聚合，尽量不要使用类继承。</li></ol>|
 
+  <p><img height="5"/></p>
+
 ### 4.3 常用的设计模式
+ <p></p>
+ 
 |<img width=80/>创建型模式 <img width=80/>|<img width=80/>结构型模式<img width=80/>|<img width=80/>行为型模式 <img width=80/>|  
 | :-----------: |:-----------:| :--------:  |  
 |[1.简单工厂模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) ★★★★☆ | [1.适配器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★☆  | [1.命令模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F)&nbsp;&nbsp;&nbsp;&nbsp; ★★★★☆| 
