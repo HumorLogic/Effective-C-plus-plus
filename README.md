@@ -537,7 +537,7 @@
   
 ### 4.2 面向对象设计7大原则 
 
-|   <img width="45"/>原则    | <img width="300"/>内容   |
+|   <img width="50"/>原则    | <img width="300"/>内容   |
 | :--------|:-----| 
 |**①单一职责原则SRP**<img width=70/>|<ol><li>一个类应该有一个，且只有一个引起改变的原因，这意味着一个类应该只有一个职责。</li></ol> | 
 |**②开放-封闭原则OCP**|<ol><li>软件(包括类、模块、函数等）应该能够做到可扩展，但不能不修改它。</li></ol>|
@@ -550,8 +550,8 @@
 ### 4.3 常用的设计模式
 |<img width=80/>创建型模式 <img width=80/>|<img width=80/>结构型模式<img width=80/>|<img width=80/>行为型模式 <img width=80/>|  
 | :-----------: |:-----------:| :--------:  |  
-|[1.简单工厂模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) ★★★★☆ | [1.适配器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★☆  | [1.命令模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F) ★★★★☆| 
-|[2.工厂方法模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F) ★★★★★ | 2.桥接模式 ★★★☆☆| 2.中介者模式  ★★☆☆☆| 
+|[1.简单工厂模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) ★★★★☆ | [1.适配器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★☆  | [1.命令模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F) ★★★★☆&nbsp;&nbsp;&nbsp;&nbsp;| 
+|[2.工厂方法模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F) ★★★★★ | 2.桥接模式 ★★★☆☆&nbsp;&nbsp;&nbsp;&nbsp;| 2.中介者模式  ★★☆☆☆| 
 |[3.抽象工厂模式 ](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)★★★★★  | 3.装饰模式 ★★★☆☆| [3.观察者模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)  ★★★★★| 
 |4.建造者模式  ★★☆☆☆   | [4.外观模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)  ★★★★★   | 4.状态模式 ★★★☆☆| 
 |[5.单例模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)  ★★★★☆  | [5.组合模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F) ★★★★☆ | [5.迭代器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★★ | 
