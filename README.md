@@ -259,7 +259,7 @@
   <td align="left"><b>13、其他</b></td>
   <td>
     1.<a href="" target="_blank" >
-      关键字：extern</a> &nbsp;&nbsp;&nbsp;
+      说明符和限定符：extern</a> &nbsp;&nbsp;&nbsp;
     2.<a href="" target="_blank" >
       标题</a> &nbsp;&nbsp;&nbsp;
     3.<a href="" target="_blank" >
