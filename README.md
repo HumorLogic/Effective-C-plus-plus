@@ -27,8 +27,8 @@
   <tr>
   <td align="left"><b>1、预备知识</b></td>
   <td>
-    <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">1.</a>
-      C++介绍 &nbsp;&nbsp;&nbsp;
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">
+      C++介绍 </a>&nbsp;&nbsp;&nbsp;
     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >
       创建程序</a> &nbsp;&nbsp;&nbsp;
     3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#wcompile" target="_blank" >
