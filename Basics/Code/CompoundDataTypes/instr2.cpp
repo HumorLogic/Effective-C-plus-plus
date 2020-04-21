@@ -1,6 +1,6 @@
 // instr2.cpp -- reading more than one word with getline
 #include <iostream>
-int main()
+int main_instr2()
 {
     using namespace std;
     const int ArSize = 20;
