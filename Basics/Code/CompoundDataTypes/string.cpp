@@ -3,7 +3,7 @@
 #include <cstring>  // for the strlen() function
 
 // 把main_*() 改为main()再运行
-int main()
+int main_string()
 {
     using namespace std;
     const int Size = 15;
