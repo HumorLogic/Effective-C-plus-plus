@@ -8,7 +8,7 @@ struct inflatable
 };
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_stru() {
 
 	using namespace std;
 	inflatable guest = {
