@@ -4,7 +4,7 @@
 #include <cstring>              // C-style string library
 
 // 把main_*() 改为main()再运行
-int main()
+int main_s4()
 {
     using namespace std;
     char charr[20]; 
