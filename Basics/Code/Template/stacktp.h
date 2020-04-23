@@ -38,10 +38,20 @@ bool Stack<T>::isfull() {
 
 template<class T>
 bool Stack<T>::push(const T& item) {
-
+	if (top < MAX) {
+		items[top++] = item;
+		return true;
+	}
+	else return false;
 }
 
 template<class T>
-
+bool Stack<T>::pop(T& item) {
+	if (top > 0) {
+		item = items[--top];
+		return true;
+	}
+	else return false;
+}
 
 #endif // !STACKTP_H

@@ -3,7 +3,8 @@
 #include <cctype>
 #include "stack.h"
 
-int main() {
+// 把main_*() 改为main()再运行
+int main_stacker() {
 
 	using namespace std;
 	Stack st;		// 创建一个空栈
