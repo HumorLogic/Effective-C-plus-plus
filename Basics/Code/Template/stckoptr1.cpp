@@ -4,7 +4,9 @@
 #include <ctime>       // for time()
 #include "stcktp1.h"
 const int Num = 10;
-int main()
+
+// 把main_*() 改为main()再运行
+int main_stckoptr1()
 {
     std::srand(std::time(0)); // randomize rand()
     std::cout << "Please enter stack size: ";

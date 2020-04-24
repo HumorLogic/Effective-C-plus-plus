@@ -19,6 +19,11 @@ add_executable (Code "Code.cpp" "Code.h" "Pointer/use_new.cpp" "Pointer/arraynew
 "Operator/divide.cpp" "VariableAndType/exceed.cpp" "VariableAndType/floatnum.cpp" 
 "VariableAndType/fltadd.cpp" "VariableAndType/hexoct1.cpp" "VariableAndType/hexoct2.cpp" 
 "VariableAndType/init.cpp" "VariableAndType/limits.cpp" "Operator/modulus.cpp" 
-"VariableAndType/morechar.cpp" "Operator/typecast.cpp" "CompoundDataTypes/structur.cpp" "CompoundDataTypes/arrstruct.cpp" "CompoundDataTypes/union_use.cpp" "CompoundDataTypes/enum_use.cpp" "CompoundDataTypes/string.cpp" "CompoundDataTypes/instr1.cpp" "CompoundDataTypes/instr2.cpp" "CompoundDataTypes/strtype1.cpp" "CompoundDataTypes/strtype2.cpp" "CompoundDataTypes/strtype3.cpp" "CompoundDataTypes/strtype4.cpp" "ClassAndObject/stack.cpp" "ClassAndObject/stacker.cpp" "Template/stacktem.cpp" "Template/stckoptr1.cpp")
+"VariableAndType/morechar.cpp" "Operator/typecast.cpp" "CompoundDataTypes/structur.cpp" 
+"CompoundDataTypes/arrstruct.cpp" "CompoundDataTypes/union_use.cpp" "CompoundDataTypes/enum_use.cpp"
+"CompoundDataTypes/string.cpp" "CompoundDataTypes/instr1.cpp" "CompoundDataTypes/instr2.cpp"
+"CompoundDataTypes/strtype1.cpp" "CompoundDataTypes/strtype2.cpp" "CompoundDataTypes/strtype3.cpp"
+"CompoundDataTypes/strtype4.cpp" "ClassAndObject/stack.cpp" "ClassAndObject/stacker.cpp" "Template/stacktem.cpp" 
+"Template/stckoptr1.cpp" "STL/smrtptrs.cpp")
 
 # TODO: 如有需要，请添加测试并安装目标。
