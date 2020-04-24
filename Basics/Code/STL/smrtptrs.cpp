@@ -20,7 +20,7 @@ public:
 
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_smrtptrs() {
 
 	{
 		std::auto_ptr<Report> ps(new Report("使用 autp_ptr"));
