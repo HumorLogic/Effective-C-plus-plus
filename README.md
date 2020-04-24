@@ -27,17 +27,17 @@
   <tr>
   <td align="left"><b>1、预备知识</b></td>
   <td>
-    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#intro" target="_blank">
       C++介绍 </a>&nbsp;&nbsp;&nbsp;
-    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#program" target="_blank" >
       创建程序</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#wcompile" target="_blank" >
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#wcompile" target="_blank" >
       什么是编译</a> &nbsp;&nbsp;&nbsp;
-    4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >
+    4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#input_output" target="_blank" >
       基本输入/输出</a> &nbsp;
-    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#pre" target="_blank" >
+    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#pre" target="_blank" >
        预处理器</a> &nbsp;&nbsp;&nbsp;
-    6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >
+    6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md#header" target="_blank" >
        头文件</a> &nbsp;&nbsp;&nbsp;
     <br>
     <br>
@@ -48,11 +48,11 @@
   <tr>
   <td align="left"><b>2、变量和类型</b></td>
   <td>
-    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#type" target="_blank" >
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#type" target="_blank" >
       基本数据类型</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#val" target="_blank" >
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#val" target="_blank" >
       变量</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#hun" target="_blank" >
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#hun" target="_blank" >
       匈牙利命名法</a> &nbsp;&nbsp;&nbsp;
   <br>  
   <br>
@@ -123,8 +123,8 @@
   <td align="left"><b>6、函数</b></td>
      <td>
        1.函数介绍  &nbsp;&nbsp;&nbsp;
-       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" > 5.函数指针</a> &nbsp; &nbsp;&nbsp;
-       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%87%BD%E6%95%B0.md#inline" target="_blank">6.内联函数</a> &nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%87%BD%E6%95%B0.md#pointer" target="_blank" > 5.函数指针</a> &nbsp; &nbsp;&nbsp;
+       <a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%87%BD%E6%95%B0.md#inline" target="_blank">6.内联函数</a> &nbsp;&nbsp;&nbsp;
        7.引用变量
        <br>
        <br>
@@ -134,11 +134,11 @@
  <tr>
   <td align="left"><b>7、指针</b></td>
   <td>
-    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#intro" target="_blank">
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E6%8C%87%E9%92%88.md#intro" target="_blank">
       指针介绍</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#de_in" target="_blank">
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E6%8C%87%E9%92%88.md#de_in" target="_blank">
       指针声明和初始化</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E6%8C%87%E9%92%88.md#arr_struct" target="_blank">
       使用new创建动态数组、结构</a> &nbsp;&nbsp;&nbsp;
    <br>
    <br>
@@ -148,13 +148,13 @@
  <tr>
   <td align="left"><b>8、内存模型</b></td>
   <td>
-    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#mem" target="_blank" >
+    1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#mem" target="_blank" >
       内存模型介绍</a> &nbsp;&nbsp;&nbsp;
-    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#scope" target="_blank" >
+    2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#scope" target="_blank" >
      作用域2</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#linkage" target="_blank" >
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#linkage" target="_blank" >
       链接性</a> &nbsp;&nbsp;&nbsp;
-    4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#continuable" target="_blank" >
+    4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md#continuable" target="_blank" >
       存储持续性</a> &nbsp;&nbsp;&nbsp;
     5.<a href="" target="_blank" >
       </a> &nbsp;&nbsp;&nbsp;
@@ -168,19 +168,19 @@
   <tr>
   <td align="left"><b>9、对象和类</b></td>
   <td>
-     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#obj" target="_blank" >
+     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#obj" target="_blank" >
      面向对象特性</a> &nbsp;&nbsp;&nbsp;
-     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#create_class" target="_blank" >
+     2.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#create_class" target="_blank" >
      创建一个简单的类</a> &nbsp;&nbsp;&nbsp;
-    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#im_class" target="_blank" >
+    3.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#im_class" target="_blank" >
       定义类成员函数</a> &nbsp;&nbsp;&nbsp;
      4.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#use_class" target="_blank" >
       使用类</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <br>
       <br>
-    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
+    5.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#c_class" target="_blank" >
       构造函数和析构函数</a> &nbsp;&nbsp;&nbsp;
-    6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#this_p" target="_blank" >
+    6.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%B1%BB.md#this_p" target="_blank" >
       this指针</a> &nbsp;&nbsp;&nbsp;
      7.<a href="" target="_blank" >
       其他</a> &nbsp;&nbsp;&nbsp;
