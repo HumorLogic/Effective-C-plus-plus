@@ -20,8 +20,6 @@ STL提供了一组表示容器、迭代器、函数对象和算法的模板。ST
 #include<iostream>
 #include<vector>
 
-
-// 把main_*() 改为main()再运行
 int main() {
 	using namespace std;
 	//创建一个存储 int类型的vector对象
