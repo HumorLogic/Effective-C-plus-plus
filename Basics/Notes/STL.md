@@ -90,7 +90,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 不同的算法对迭代器的要求也不同。例如查找算法和排序算法。STL定义了5种迭代器。
 
 <table>
-<tr><th>类型</th><th width="200">描述</th></tr>
+<tr><th width="100">类型</th><th width="200">描述</th></tr>
 <tr><td>输入迭代器</td><td>必须能否访问容器中所有的值</td></tr>
 <tr><td>输出迭代器</td><td>程序可以修改容器的值而不能读取</td></tr>
 <tr><td>正向迭代器</td><td>只能使用++运算符来遍历容器，总是按照相同顺序遍历一系列值</td></tr>
