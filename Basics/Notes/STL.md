@@ -91,11 +91,11 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 
 <table>
 <tr><th width="100">类型</th><th width="200">描述</th></tr>
-<tr><td>输入迭代器</td><td>必须能否访问容器中所有的值</td></tr>
-<tr><td>输出迭代器</td><td>程序可以修改容器的值而不能读取</td></tr>
-<tr><td>正向迭代器</td><td>只能使用++运算符来遍历容器，总是按照相同顺序遍历一系列值</td></tr>
-<tr><td>双向迭代器</td><td>具有正向迭代器的所有特性，同时支持（前缀和后缀）递减运算符</td></tr>
-<tr><td>随机访问迭代器</td><td>能够直接跳转到容器钟的任何一个元素</td></tr>
+	<tr><td align="center"><b>输入迭代器</b></td><td>必须能否访问容器中所有的值</td></tr>
+<tr><td align="center"><b>输出迭代器</b></td><td>程序可以修改容器的值而不能读取</td></tr>
+<tr><td align="center"><b>正向迭代器</b></td><td>只能使用++运算符来遍历容器，总是按照相同顺序遍历一系列值</td></tr>
+<tr><td align="center"><b>双向迭代器</b></td><td>具有正向迭代器的所有特性，同时支持（前缀和后缀）递减运算符</td></tr>
+<tr><td align="center"><b>随机访问迭代器</b></td><td>能够直接跳转到容器钟的任何一个元素</td></tr>
 
 
 
