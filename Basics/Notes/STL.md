@@ -101,5 +101,15 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 
 </table>
 
-## 2. 容器Containers
+## 4. 容器Containers
+容器是存储其他对象的对象。被存储的对象必须是同一种类型，可以是OOP意义上的对象，也可以是内置类型值。
 
+<table>
+<tr><th width="100" colspan="4">一些基本的容器特征</th></tr>
+<tr><th>表达式</th><th>返回类型</th><th>说明</th><th>复杂度</th></tr>
+<tr><td>X::iterator</td><td>指向T的迭代器类型</td><td>满足正向迭代器要求的任何迭代器</td><td>编译时间</td></tr>
+<tr><td>X::value_tye</td><td>T</td><td>T的类型</td><td>编译时间</td></tr>
+<tr><td>X u</td><td></td><td>创建一个名为u的空容器</td><td>固定</td></tr>
+<tr><td>X()</td><td></td><td>创建一个匿名的空容器</td><td>固定</td></tr>
+
+</table>

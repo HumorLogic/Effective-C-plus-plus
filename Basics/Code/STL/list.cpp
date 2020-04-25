@@ -6,7 +6,8 @@
 
 void outint(int n) {std::cout << n << " ";}
 
-int main()
+// 把main_*() 改为main()再运行
+int main_list()
 {
     using namespace std;
     list<int> one(5, 2); // list of 5 2s
