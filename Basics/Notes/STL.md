@@ -54,5 +54,38 @@ int main() {
 
 ---------
 <a id="container"></a>
+
+## 泛型编程
+STL是一种泛型编程（generic programming）。面向对象编程关注的式编程的数据方面，而泛型编程关注的是算法。他们之间的共同点是抽象和创建可重用代码，但理念决然不同。  
+泛型编程旨在编写独立于数据类型的代码。在C++中，完成通用程序的工具是模板。当然模板使得能够按照泛型定义函数或类，而STL通过通用算法更进了一步。
+
+## 3. 迭代器Iterator
+
+理解迭代器是理解STL的关键所在。模板使得算法独立于存储的数据类型，而迭代器使算法独立于使用的容器类型。因此他们都是STL通用方法的重要组成部分。 
+
+### 3.1 迭代器使用
+使用容器时，无需知道其迭代器是如何实现的，也无需知道超尾是如何实现的，而只需要知道他有迭代器，其`begin()`返回一个指向第一个元素的迭代器，`end()`返回一个指向超尾位置的迭代器即可。  
+例：打印`vector<double>`对象中的值：  
+```C++
+vector<double>::iterator pr;	//声明一个vector<double>类型的迭代器
+for(pr=socres.begin();pr!=scores.end();pr++)
+	cout<<*pr<<endl;
+
+```
+如果使用`list<double>`类模板来存储分数，代码如下：
+```C++
+list<double>::iterator pr;	//声明一个list<double>类型的迭代器
+for(pr=socres.begin();pr!=scores.end();pr++)
+	cout<<*pr<<endl;
+```
+
+使用C++11新增的自动类型推断可以进一步简化：对矢量vector或列表list都可以用如下代码：  
+```C++
+for(auto pr=socres.begin();pr!=scores.end();pr++)
+	cout<<*pr<<endl;
+```
+>实际上，作为一种编程风格应避免直接使用迭代器，而应尽可能的使用STL函数（如for_each）来处理细节。
+
+
 ## 2. 容器Containers
 

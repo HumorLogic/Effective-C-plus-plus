@@ -3,7 +3,7 @@
 
 
 // 把main_*() 改为main()再运行
-int main() {
+int main_vector() {
 	using namespace std;
 	//创建一个存储 int类型的vector对象
 	vector<int> vec;
