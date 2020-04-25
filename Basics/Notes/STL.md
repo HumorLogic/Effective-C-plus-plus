@@ -108,7 +108,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><th width="100" colspan="4">一些基本的容器特征</th></tr>
 <tr><th>表达式</th><th>返回类型</th><th>说明</th><th>复杂度</th></tr>
 <tr><td>X::iterator</td><td>指向T的迭代器类型</td><td>满足正向迭代器要求的任何迭代器</td><td>编译时间</td></tr>
-<tr><td>X::value_tye</td><td>T</td><td>T的类型</td><td>编译时间</td></tr>
+<tr><td>X::value_type</td><td>T</td><td>T的类型</td><td>编译时间</td></tr>
 <tr><td>X u</td><td></td><td>创建一个名为u的空容器</td><td>固定</td></tr>
 <tr><td>X()</td><td></td><td>创建一个匿名的空容器</td><td>固定</td></tr>
 
