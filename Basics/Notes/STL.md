@@ -137,7 +137,10 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><th>容器</th><th width="500">特点</th><th>常用方法</th></tr>
 <tr><td align="center">vector</td><td>是数组的一种类表示，提供了自动内存管理功能，可以动态的改变vector对象的长度，支持随机访问。</td><td>rbegin()、rend()</td></tr>
 <tr><td align="center">deque</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
-<tr><td align="center">list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code></td></tr>
+<tr><td align="center">list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
+<tr><td align="center">forward_list</td><td>它实现了单链表。每个节点都只链接到下一个节点，因此forward_list只需要正向迭代器。</td><td>相比list，forward_list更简单紧凑，功能也更少，不可反转。</td></tr>
+<tr><td align="center">queue</td><td>queue模板类是一个适配器类。不允许随机访问队列元素和变量元素。可以添加元素到队尾，从队首删除元素等。</td><td><code>front()</code>、<code>back()</code>、<code>push()</code>、<code>pop()</code></td></tr>
+
 </table>
 
 
