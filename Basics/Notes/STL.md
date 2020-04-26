@@ -134,10 +134,10 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 7种STL序列：
 <table>
 <tr><th colspan="3">7种序列容器</th></tr>
-<tr><th>容器</th><th>特定</th><th>常用方法</th></tr>
-<tr><td>vector</td><td>是数组的一种类表示，提供了自动内存管理功能，可以动态的改变vector对象的长度，支持随机访问。</td><td>rbegin()、rend()</td></tr>
-<tr><td>deque</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
-<tr><td>list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td>insert()、sort()、remove()</td></tr>
+<tr><th>容器</th><th width="500">特点</th><th>常用方法</th></tr>
+<tr><td align="center">vector</td><td>是数组的一种类表示，提供了自动内存管理功能，可以动态的改变vector对象的长度，支持随机访问。</td><td>rbegin()、rend()</td></tr>
+<tr><td align="center">deque</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
+<tr><td align="center">list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td>insert()、sort()、remove()</td></tr>
 </table>
 
 
