@@ -109,7 +109,17 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><th>表达式</th><th>返回类型</th><th>说明</th><th>复杂度</th></tr>
 <tr><td>X::iterator</td><td>指向T的迭代器类型</td><td>满足正向迭代器要求的任何迭代器</td><td>编译时间</td></tr>
 <tr><td>X::value_type</td><td>T</td><td>T的类型</td><td>编译时间</td></tr>
-<tr><td>X u</td><td></td><td>创建一个名为u的空容器</td><td>固定</td></tr>
-<tr><td>X()</td><td></td><td>创建一个匿名的空容器</td><td>固定</td></tr>
+<tr><td>X u;</td><td></td><td>创建一个名为u的空容器</td><td>固定</td></tr>
+<tr><td>X();</td><td></td><td>创建一个匿名的空容器</td><td>固定</td></tr>
+<tr><td>X u(a);</td><td></td><td>调用复制构造函数后u==a</td><td>线性</td></tr>
+<tr><td>X u=a;</td><td></td><td>作用同X u(a);</td><td>线性</td></tr>
+<tr><td> r = a;</td><td>X&</td><td>调用赋值运算后r==a</td><td>线性</td></tr>
+<tr><td> (&a)->~X()</td><td>void</td><td>对容器中每个元素应用析构函数</td><td>线性</td></tr>
+<tr><td> a.begin()</td><td>迭代器</td><td>返回指向容器第一个原色的迭代器</td><td>固定</td></tr>
+<tr><td> a.end()</td><td>迭代器</td><td>返回超尾值迭代器</td><td>固定</td></tr>
+<tr><td> a.size()</td><td>无符号整型</td><td>返回元素个数，等价于a.end()-a.begin()</td><td>固定</td></tr>
+<tr><td> a.swap(b)</td><td>void</td><td>交换a和b的内容</td><td>固定</td></tr>
+<tr><td> a==b</td><td>可转换为bool</td><td>如果a和b的长度相同，且a中每个元素都等于b中相应的元素，则为真</td><td>线性</td></tr>
+<tr><td> a!=b</td><td>可转换为bool</td><td>返回!(a==b)</td><td>线性</td></tr>
 
 </table>
