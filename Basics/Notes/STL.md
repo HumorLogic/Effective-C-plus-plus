@@ -127,6 +127,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 
 </table>
 
+<<<<<<< HEAD
 > 其中**X**表示容器类型，如**vector**；**T**表示存储在容器中的对象类型；**a** 和 **b** 表示类型为**X**的值；**r**表示类型为**X&**的值；**u**表示类型为X的标识符。
 
 ### 4.2 序列容器
@@ -148,3 +149,6 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 - queue
 - priority_queued
 - array
+=======
+其中**X**表示容器类型，如**vector**；**T**表示存储在容器中的对象类型；**a** 和 **b** 表示类型为**X**的值；**r**表示类型为`X&`的值；**u**表示类型为X的标识符。
+>>>>>>> f5d7e0af4084344efe6f39069fe3d0e433e5b536
