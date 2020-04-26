@@ -123,3 +123,5 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td> a!=b</td><td>可转换为bool</td><td>返回!(a==b)</td><td>线性</td></tr>
 
 </table>
+
+> 其中**X**表示容器类型，如**vector**；**T**表示存储在容器中的对象类型；**a** 和 **b** 表示类型为**X**的值；**r**表示类型为**X&**的值；**u**表示类型为X的标识符。
