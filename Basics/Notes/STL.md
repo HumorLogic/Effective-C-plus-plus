@@ -102,7 +102,10 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 </table>
 
 ## 4. 容器Containers
-容器是存储其他对象的对象。被存储的对象必须是同一种类型，可以是OOP意义上的对象，也可以是内置类型值。
+容器是存储其他对象的对象。被存储的对象必须是同一种类型，可以是OOP意义上的对象，也可以是内置类型值。  
+
+### 4.1 基本容器
+下面是容器容器的特性，基本容器不能保证其元素都按照特定的顺序存储，也不能保证元素的顺序不变。
 
 <table width="800" >
 <tr><th colspan="4">一些基本的容器特征</th></tr>
@@ -125,3 +128,23 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 </table>
 
 > 其中**X**表示容器类型，如**vector**；**T**表示存储在容器中的对象类型；**a** 和 **b** 表示类型为**X**的值；**r**表示类型为**X&**的值；**u**表示类型为X的标识符。
+
+### 4.2 序列容器
+可以通过添加要求改进基本的容器概念。序列（sequence）是一种重要的改进。序列概念增加了迭代器至少是正向迭代器这样的要求，这保证了元素将按照特定顺序排列，不会在两次迭代之间发生变化。  
+7种STL序列：
+<table>
+<tr><th colspan="3">7种序列容器</th></tr>
+<tr><th>容器</th><th>特定</th><th>常用方法</th></tr>
+<tr><td>vector</td><td>是数组的一种类表示，提供了自动内存管理功能，可以动态的改变vector对象的长度，支持随机访问。</td><td>rbegin()、rend()</td></tr>
+<tr><td>deque</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
+<tr><td>list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td>insert()、sort()、remove()</td></tr>
+</table>
+
+
+- vector —— 
+- stack
+- list
+- forward_list
+- queue
+- priority_queued
+- array
