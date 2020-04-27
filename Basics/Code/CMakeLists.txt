@@ -24,6 +24,6 @@ add_executable (Code "Code.cpp" "Code.h" "Pointer/use_new.cpp" "Pointer/arraynew
 "CompoundDataTypes/string.cpp" "CompoundDataTypes/instr1.cpp" "CompoundDataTypes/instr2.cpp"
 "CompoundDataTypes/strtype1.cpp" "CompoundDataTypes/strtype2.cpp" "CompoundDataTypes/strtype3.cpp"
 "CompoundDataTypes/strtype4.cpp" "ClassAndObject/stack.cpp" "ClassAndObject/stacker.cpp" "Template/stacktem.cpp" 
-"Template/stckoptr1.cpp" "STL/smrtptrs.cpp" "STL/vector.cpp" "STL/vect1.cpp"   "STL/vect3.cpp"  "STL/list.cpp" "STL/inserts.cpp" "Library/chrono_use/chrono_use.cpp" "Library/std_use/async_use.cpp")
+"Template/stckoptr1.cpp" "STL/smrtptrs.cpp" "STL/vector.cpp" "STL/vect1.cpp"   "STL/vect3.cpp"  "STL/list.cpp" "STL/inserts.cpp" "Library/chrono_use/chrono_use.cpp" "Library/std_use/async_use.cpp" "STL/setops.cpp")
 
 # TODO: 如有需要，请添加测试并安装目标。

@@ -53,7 +53,7 @@ int main() {
 ```
 
 ---------
-<a id="container"></a>
+
 
 ## 泛型编程
 STL是一种泛型编程（generic programming）。面向对象编程关注的式编程的数据方面，而泛型编程关注的是算法。他们之间的共同点是抽象和创建可重用代码，但理念决然不同。  
@@ -61,6 +61,7 @@ STL是一种泛型编程（generic programming）。面向对象编程关注的�
 
 
 <p><img height="10"/></p>
+
 -------------
 
 <a id="iterator"></a>
@@ -164,9 +165,9 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><th colspan="3">4种关联容器</th></tr>
 <tr><th>容器</th><th width="450">特点</th><th>常用方法</th></tr>
 <tr><td align="center">set</td><td>是最简单的关联容器，其值类型和与键相同，键是唯一的，不能存储多个相同的值。可翻转、排序。</td><td>rbegin()、rend()</td></tr>
-<tr><td align="center">multiset</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
-<tr><td align="center">map</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
-<tr><td align="center">map</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
+<tr><td align="center">multiset</td><td>和set类似，最大的区别是multiset键和值得类型不同，且同一个键可能与多个值相关联。</td><td></td></tr>
+<tr><td align="center">map</td><td></td><td></td></tr>
+<tr><td align="center">multimap</td><td></td><td></td></tr>
 </table>
 
 <p><img height="10"/></p>

@@ -15,7 +15,8 @@ public:
     }
 };
 
-int main() {
+// 把main_*() 改为main()再运行
+int main_async() {
 
     std::cout << std::endl;
 
@@ -34,5 +35,6 @@ int main() {
         << futureLambda.get() << std::endl;
 
     std::cout << std::endl;
+    return 0;
 
 }
