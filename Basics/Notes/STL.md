@@ -140,6 +140,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td align="center">list</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
 <tr><td align="center">forward_list</td><td>它实现了单链表。每个节点都只链接到下一个节点，因此forward_list只需要正向迭代器。</td><td>相比list，forward_list更简单紧凑，功能也更少，不可反转。</td></tr>
 <tr><td align="center">queue</td><td>queue模板类是一个适配器类。不允许随机访问队列元素和变量元素。可以添加元素到队尾，从队首删除元素等。</td><td><code>front()</code>、<code>back()</code>、<code>push()</code>、<code>pop()</code></td></tr>
+<tr><td align="center">priority_queue</td><td>支持的操作和queue模板类相同，是另一种适配器类。最大的区别队列中最大的元素被移到队首。</td><td><code>size()</code>、<code>top()</code></td></tr>
 
 </table>
 

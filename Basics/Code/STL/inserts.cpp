@@ -7,7 +7,7 @@
 
 void output(const std::string & s) {std::cout << s << " ";}
 
-int main()
+int main_inserts()
 {
     using namespace std;
     string s1[4] = {"fine", "fish", "fashion", "fate"};
