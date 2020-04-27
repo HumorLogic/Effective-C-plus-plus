@@ -141,6 +141,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td align="center">forward_list</td><td>它实现了单链表。每个节点都只链接到下一个节点，因此forward_list只需要正向迭代器。</td><td>相比list，forward_list更简单紧凑，功能也更少，不可反转。</td></tr>
 <tr><td align="center">queue</td><td>queue模板类是一个适配器类。不允许随机访问队列元素和变量元素。可以添加元素到队尾，从队首删除元素等。</td><td><code>front()</code>、<code>back()</code>、<code>push()</code>、<code>pop()</code></td></tr>
 <tr><td align="center">priority_queue</td><td>支持的操作和queue模板类相同，是另一种适配器类。最大的区别队列中最大的元素被移到队首。</td><td><code>size()</code>、<code>top()</code></td></tr>
+<tr><td align="center">array</td><td>array并非STL容器，因为长度是固定的，没有定义调整容器大小的操作。</td><td><code>operator[]()</code>、<code>at()</code>,很多标准STL算法可以用于array对象，如<code>copy()</code>、<code>for_each()</code></td></tr>
 
 </table>
 
