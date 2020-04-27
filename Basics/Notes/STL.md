@@ -59,6 +59,11 @@ int main() {
 STL是一种泛型编程（generic programming）。面向对象编程关注的式编程的数据方面，而泛型编程关注的是算法。他们之间的共同点是抽象和创建可重用代码，但理念决然不同。  
 泛型编程旨在编写独立于数据类型的代码。在C++中，完成通用程序的工具是模板。当然模板使得能够按照泛型定义函数或类，而STL通过通用算法更进了一步。
 
+
+<p><img height="10"/></p>
+-------------
+
+<a id="iterator"></a>
 ## 3. 迭代器Iterator
 
 理解迭代器是理解STL的关键所在。模板使得算法独立于存储的数据类型，而迭代器使算法独立于使用的容器类型。因此他们都是STL通用方法的重要组成部分。 
@@ -97,10 +102,14 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td align="center"><b>双向迭代器</b></td><td>具有正向迭代器的所有特性，同时支持（前缀和后缀）递减运算符</td></tr>
 <tr><td align="center"><b>随机访问迭代器</b></td><td>能够直接跳转到容器钟的任何一个元素</td></tr>
 
-
-
 </table>
 
+
+<p><img height="10"/></p>
+
+--------------
+
+<a id="container"></a>
 ## 4. 容器Containers
 容器是存储其他对象的对象。被存储的对象必须是同一种类型，可以是OOP意义上的对象，也可以是内置类型值。  
 
@@ -145,11 +154,23 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 
 </table>
 
+<p><img height="10"/></p>
 
-- vector —— 
-- stack
-- list
-- forward_list
-- queue
-- priority_queued
-- array
+### 4.4 关联容器
+
+关联容器（associative container）是对容器概念的另一种改进。关联容器将值与键关联在一起，并使用键来查找值。关联容器的优点在于，它提供了对元素的快速访问，允许插入新的元素但不能插入指定位置。STL提供了4种关联容器：set、multiset、map和multimap。
+
+<table>
+<tr><th colspan="3">4种关联容器</th></tr>
+<tr><th>容器</th><th width="450">特点</th><th>常用方法</th></tr>
+<tr><td align="center">set</td><td>是最简单的关联容器，其值类型和与键相同，键是唯一的，不能存储多个相同的值。可翻转、排序。</td><td>rbegin()、rend()</td></tr>
+<tr><td align="center">multiset</td><td>表示双端队列，从deque对象的开始位置插入和删除元素的时间是固定的，而不是像vector那样是线性的。</td><td></td></tr>
+<tr><td align="center">map</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
+<tr><td align="center">map</td><td>表示双向链表。list在链表种任意位置进行插入和删除的时间都是固定的。</td><td><code>insert()</code>、<code>sort()</code>、<code>remove()</code>、<code>merge()</code>、<code>unique()</code></td></tr>
+</table>
+
+<p><img height="10"/></p>
+
+-------------
+
+## 算法
