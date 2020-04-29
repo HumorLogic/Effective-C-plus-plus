@@ -102,7 +102,6 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td align="center"><b>正向迭代器</b></td><td>只能使用++运算符来遍历容器，总是按照相同顺序遍历一系列值</td></tr>
 <tr><td align="center"><b>双向迭代器</b></td><td>具有正向迭代器的所有特性，同时支持（前缀和后缀）递减运算符</td></tr>
 <tr><td align="center"><b>随机访问迭代器</b></td><td>能够直接跳转到容器钟的任何一个元素</td></tr>
-
 </table>
 
 
@@ -111,6 +110,7 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 --------------
 
 <a id="container"></a>
+
 ## 4. 容器Containers
 容器是存储其他对象的对象。被存储的对象必须是同一种类型，可以是OOP意义上的对象，也可以是内置类型值。  
 
@@ -134,8 +134,9 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 <tr><td> a.swap(b)</td><td>void</td><td>交换a和b的内容</td><td>固定</td></tr>
 <tr><td> a==b</td><td>可转换为bool</td><td>如果a和b的长度相同，且a中每个元素都等于b中相应的元素，则为真</td><td>线性</td></tr>
 <tr><td> a!=b</td><td>可转换为bool</td><td>返回!(a==b)</td><td>线性</td></tr>
-
 </table>
+
+
 
 其中**X**表示容器类型，如**vector**；**T**表示存储在容器中的对象类型；**a** 和 **b** 表示类型为**X**的值；**r**表示类型为`X&`的值；**u**表示类型为X的标识符。
 
@@ -189,7 +190,21 @@ for(auto pr=socres.begin();pr!=scores.end();pr++)
 class Linear{
 private:
 	double slope;
-}
+    double y0;
+public:
+    Linear(double sl_ = 1, double y_ = 0)
+        :slope(sl_),y0(y_){}
+    double operator()(double x){return y0 + slope * x;}
+};
+```
+
+这样重载的`()`运算符使得能够像函数那样使用Linear对象：
+
+```C++
+Linear f1；
+Linear f2(2.5,10.0);
+double y1 = fl(12.5);	//右边相当于fl.operator()(12.5)
+double y2 = f2(0.4);
 ```
 
 
