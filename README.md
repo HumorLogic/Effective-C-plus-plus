@@ -4,7 +4,7 @@
   <img  src="/Imgs/cpp02.png" width="120"  alt="logo"/>    <i><b>关于</b></i><b> C++ </b><i><b>编程技术知识结构的整理总结。</b></i>包含基础编程知识、算法数据结构、编程思想、<br><img width="125"/>设计模式、优质的学习项目等。
 </p>  
   
-  
+
 **目录：**
 1. [【C++技术知识】](#basic)
 2. [【C++类库】](#library)
@@ -22,9 +22,7 @@
 <table>
   <tr>
     <th width="150">目录</th>
-    <th width="600">内容</th>
-    
-  </tr>
+    <th width="600">内容</th>  </tr>
   <tr>
   <td align="left"><b>1、预备知识</b></td>
   <td>
@@ -42,11 +40,8 @@
        头文件</a> &nbsp;&nbsp;&nbsp;
     <br>
     <br>
-  </td>
-  
-  </tr>
-  
-  <tr>
+  </td></tr>
+      <tr>
   <td align="left"><b>2、变量和类型</b></td>
   <td>
     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md#type" target="_blank" >
@@ -58,9 +53,7 @@
   <br>  
   <br>
   </td>
-  
   </tr>
-  
   <tr>
   <td align="left"><b>3、运算符</b></td>
   <td>
@@ -78,8 +71,7 @@
       杂项运算符</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
-  
-   <tr>
+    <tr>
   <td align="left"><b>4、控制语句</b></td>
   <td>
     1.<a href="" target="_blank" >
@@ -92,7 +84,6 @@
     <br>
   </td>
   </tr>
-  
    <tr>
      <td align="left"><b>5、复合类型</b></td>
     <td>
@@ -112,15 +103,13 @@
       类型组合</a> &nbsp;&nbsp;&nbsp;
     <br>
     <br>
-    8.<a href="" target="_blank" >
+         8.<a href="" target="_blank" >
       数组替代品</a> &nbsp;&nbsp;&nbsp;
      <br>
      <br>
-      
   </td>
   </tr>
- 
- <tr>
+    <tr>
   <td align="left"><b>6、函数</b></td>
      <td>
        1.函数介绍  &nbsp;&nbsp;&nbsp;
@@ -131,8 +120,7 @@
        <br>
   </td>
   </tr>
-
- <tr>
+    <tr>
   <td align="left"><b>7、指针</b></td>
   <td>
     1.<a href="https://github.com/HumorLogic/Effective-C-plus-plus/blob/master/Basics/Notes/%E6%8C%87%E9%92%88.md#intro" target="_blank">
@@ -145,7 +133,6 @@
    <br>
   </td>
   </tr>
- 
  <tr>
   <td align="left"><b>8、内存模型</b></td>
   <td>
@@ -163,9 +150,6 @@
     <br>
   </td>
   </tr>
-  
-
- 
   <tr>
   <td align="left"><b>9、对象和类</b></td>
   <td>
@@ -189,10 +173,8 @@
       抽象数据类型</a> &nbsp;&nbsp;&nbsp;
     <br>
     <br>
-    
   </td>
   </tr>
-  
   <tr>
   <td align="left"><b>10、面向对象特性</b></td>
   <td>
@@ -214,7 +196,6 @@
     <br>
   </td>
   </tr>
-  
   <tr>
   <td align="left"><b>11、模板</b></td>
   <td>
@@ -228,10 +209,6 @@
     <br>
   </td>
   </tr>
-  
-  
-  
-  
   <tr>
   <td align="left"><b>12、STL</b></td>
   <td>
@@ -247,8 +224,7 @@
     <br>
   </td>
   </tr>
-  
-  <tr>
+    <tr>
   <td align="left"><b>12、容器</b></td>
   <td>
     1.<a href="" target="_blank" >
@@ -259,7 +235,6 @@
       标题</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
-  
   <tr>
   <td align="left"><b>13、其他</b></td>
   <td>
@@ -271,8 +246,12 @@
       标题</a> &nbsp;&nbsp;&nbsp;
   </td>
   </tr>
-  
 </table>
+
+
+  
+
+ 
 
 > 内容参考:  
 >[《C++ Primer Plus》](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)、[cplusplus.com/tutorial](http://www.cplusplus.com/doc/tutorial/)
@@ -294,40 +273,34 @@
     <th width="150">目录</th>
     <th width="500">内容</th> 
   </tr>
-  
-  <tr> <td align="left"><b>数组Array</b></td>
+    <tr> <td align="left"><b>数组Array</b></td>
        <td>内容</td> 
   </tr>
-  
    <tr> <td align="left"><b>链表Linked List</b></td>
        <td>内容</td> 
   </tr>
- 
    <tr> <td align="left"><b>栈Stack</b></td>
        <td>内容</td> 
   </tr>
-  
   <tr> <td align="left"><b>队列Queue</b></td>
        <td>内容</td> 
   </tr>
-  
   <tr> <td align="left"><b>堆Heap</b></td>
        <td>内容</td> 
   </tr>
-  
   <tr> <td align="left"><b>散列表Hash</b></td>
        <td>内容</td> 
   </tr>
-  
   <tr> <td align="left"><b>图Graph</b></td>
        <td>内容</td> 
   </tr>
-  
   <tr> <td align="left"><b>树Tree</b></td>
        <td>内容</td> 
   </tr>
-   
 </table>
+
+
+  
 
 
 ### 2.2 算法
@@ -345,11 +318,13 @@
    <tr> <td align="center">动态规划</td></tr>
    <tr> <td align="center">回溯法</td></tr>
    <tr> <td align="center">分支定界</td></tr>
-     
- </table>
+    </table>
+
+
  
+
  <p></p>
- 
+
 #### 2.2.2 排序算法
  <table>
   <tr>
@@ -361,20 +336,22 @@
     <td><br><b>3.交换排序</b>：<br><ul><li>冒泡排序</li><li>快速排序</li></ul></td>
     <td><b>4.归并排序</b><br><br><br></td>
   </tr>
-  
-  <tr>
+      <tr>
     <td><br><b>5.横排序</b><br><br>
     <td><br><b>6.计数排序</b><br><br>
     <td><br><b>7.桶排序</b><br><br>
     <td><br><b>8.基数排序</b><br><br>
   </tr>
   </table>
-  
+
+
+ 
+
   <p></p>
-  
+
 #### 2.2.3 查找算法
+
 <table>
-  
   <tr>
     <th width="700" colspan="5">查找算法 Find Algorithm</th>
   </tr>
@@ -384,7 +361,6 @@
    <td><br><b>3.线性索引查找</b>：<br><ul><li>稠密索引</li><li>分块索引</li><li>倒排索引</li></ul></td>
     <td><br><b>4.树表查找</b>：<br><ul><li>二叉查找树</li><li>平衡查找树</li><li>多路查找树</li></ul></td>
     <td><br><b>5.散列表查找</b>：<br><ul><li>散列函数</li><li>冲突处理</li></ul><br></td>
-    
   </tr>
 </table>
 
@@ -399,7 +375,6 @@
 
 
 <table>
-  
   <tr>
     <th width="1000" colspan="2">改善程序与设计的55个具体做法</th>
   </tr>
@@ -413,7 +388,6 @@
           <li>04：确定对象被使用前已被初始化</li>
           <br><br><br>
       </ul></td>
-  
    <td align="left"><br><b>2.构造/析构/赋值运算</b>：<br>
       <ul>
           <br>
@@ -427,7 +401,6 @@
           <li>12：复制对象时勿忘其中每一个成分</li>
       </ul></td>
   </tr>
-  
   <tr>
     <td align="left"><br><b>3.资源管理</b>：<br>
       <ul>
@@ -439,7 +412,6 @@
           <li>17：以独立语句将<code>newed</code>对象置入智能指针</li>
           <br><br><br>
       </ul></td>
-  
    <td align="left"><br><b>4.设计与声明</b>：<br>
       <ul>
           <br>
@@ -453,7 +425,6 @@
           <li>25：考虑写出一个不抛出异常的<code>swap</code>函数</li>
       </ul></td>
   </tr>
-  
    <tr>
     <td align="left"><br><b>5.实现</b>：<br>
       <ul>
@@ -466,7 +437,6 @@
           <li>31：将文件间的编译依存关系降至最低</li>
           <br><br>
       </ul></td>
-  
    <td align="left"><br><b>6.继承与面向对象设计</b>：<br>
       <ul>
           <br>
@@ -520,11 +490,9 @@
           <br><br>
       </ul></td>
   </tr>
-  
 </table>
 
 <p><img height="30"/></p>
-
 
 -----------
 <a id="designpattern"></a>
@@ -537,20 +505,20 @@
 2. **低耦合**
 3. **业务封装**  
 > 设计模式的核心是抽象，通过抽象来进行复杂度管理。  
-  
-  
+
+
   <p><img height="5"/></p>
-  
+
 ### 4.2 面向对象设计7大原则 
  <p></p>
 
 |   <img width="50"/>原则    | <img width="300"/>内容   |
-| :--------|:-----| 
-|**1、单一职责原则SRP**<img width=70/>|<ul><li>一个类应该有一个，且只有一个引起改变的原因，这意味着一个类应该只有一个职责。</li></ul> | 
+| :--------|:-----|
+|**1、单一职责原则SRP**<img width=70/>|<ul><li>一个类应该有一个，且只有一个引起改变的原因，这意味着一个类应该只有一个职责。</li></ul> |
 |**2、开放-封闭原则OCP**|<ul><li>软件(包括类、模块、函数等）应该能够做到可扩展，但不能不修改它。</li></ul>|
-|**3、[依赖倒转原则DIP](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99)**|<ul><li>高层不依赖底层，双方都应该依赖抽象。</li><li>抽象不依赖细节，而细节应该依赖抽象。</li></ul> | 
+|**3、[依赖倒转原则DIP](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/%E4%BE%9D%E8%B5%96%E5%80%92%E8%BD%AC%E5%8E%9F%E5%88%99)**|<ul><li>高层不依赖底层，双方都应该依赖抽象。</li><li>抽象不依赖细节，而细节应该依赖抽象。</li></ul> |
 |**4、里氏替换原则LSP**|<ul><li>子类必须可以替换父类。</li><li>一个可以接受父类对象的地方必然可以接受一个子类对象。</li></ul>|
-|**5、接口隔离原则ISP**|<ul><li>使用多个专门的接口来取代一个统一的接口</li><li>客户端不应该依赖它不需要的接口</li><li>类间的依赖关系应该建立在最小的接口上</li></ul> | 
+|**5、接口隔离原则ISP**|<ul><li>使用多个专门的接口来取代一个统一的接口</li><li>客户端不应该依赖它不需要的接口</li><li>类间的依赖关系应该建立在最小的接口上</li></ul> |
 |**6、[迪米特原则LKP](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99)**|<ul><li>一个类对于其他类知道的越少越好，就是说一个对象应当对其他对象有尽可能少的了解，只和朋友通信，不和陌生人说话。</li><li>如果一个类需要调用另一个类的方法的话，可以通过第三者转发这个调用。</li></ul>|
 |**7、合成复用原则CRP**|<ul><li>尽量使用合成/聚合，尽量不要使用类继承。</li></ul>|
 
@@ -558,13 +526,13 @@
 
 ### 4.3 常用的设计模式
  <p></p>
- 
-|<img width=80/>创建型模式 <img width=80/>|<img width=80/>结构型模式<img width=80/>|<img width=80/>行为型模式 <img width=80/>|  
-| :-----------: |:-----------:| :--------:  |  
-|[1.简单工厂模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) ★★★★☆ | [1.适配器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★☆  | [1.命令模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F)&nbsp;&nbsp;&nbsp;&nbsp; ★★★★☆| 
-|[2.工厂方法模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F) ★★★★★ | 2.桥接模式&nbsp;&nbsp;&nbsp;&nbsp; ★★★☆☆| 2.中介者模式★★☆☆☆| 
-|[3.抽象工厂模式 ](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)★★★★★  | 3.装饰模式 &nbsp;&nbsp;&nbsp;&nbsp;★★★☆☆| [3.观察者模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)  ★★★★★| 
-|4.建造者模式 &nbsp;&nbsp; ★★☆☆☆   | [4.外观模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp; ★★★★★   | 4.状态模式 &nbsp;&nbsp;&nbsp;&nbsp;★★★☆☆| 
-|[5.单例模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ★★★★☆  | [5.组合模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp;★★★★☆ | [5.迭代器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★★ | 
+
+|<img width=80/>创建型模式 <img width=80/>|<img width=80/>结构型模式<img width=80/>|<img width=80/>行为型模式 <img width=80/>|
+| :-----------: |:-----------:| :--------:  |
+|[1.简单工厂模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F) ★★★★☆ | [1.适配器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★☆  | [1.命令模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F)&nbsp;&nbsp;&nbsp;&nbsp; ★★★★☆|
+|[2.工厂方法模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F) ★★★★★ | 2.桥接模式&nbsp;&nbsp;&nbsp;&nbsp; ★★★☆☆| 2.中介者模式★★☆☆☆|
+|[3.抽象工厂模式 ](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)★★★★★  | 3.装饰模式 &nbsp;&nbsp;&nbsp;&nbsp;★★★☆☆| [3.观察者模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)  ★★★★★|
+|4.建造者模式 &nbsp;&nbsp; ★★☆☆☆   | [4.外观模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp; ★★★★★   | 4.状态模式 &nbsp;&nbsp;&nbsp;&nbsp;★★★☆☆|
+|[5.单例模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E5%88%9B%E5%BB%BA%E5%9E%8B%E7%B1%BB%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ★★★★☆  | [5.组合模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp;★★★★☆ | [5.迭代器模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F) ★★★★★ |
 |6.原型模式 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;★★★☆☆|[6.MVC模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/MVC%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp;★★★★★|[6.策略模式](https://github.com/HumorLogic/DesignPattern/tree/master/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F) &nbsp;&nbsp;&nbsp;&nbsp;★★★★☆|
 
