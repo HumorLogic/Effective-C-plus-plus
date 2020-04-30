@@ -9,6 +9,7 @@ struct Review {
     int rating;
 };
 
+
 bool operator<(const Review & r1, const Review & r2);
 bool worseThan(const Review & r1, const Review & r2);
 bool FillReview(Review & rr);

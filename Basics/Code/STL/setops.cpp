@@ -5,7 +5,9 @@
 #include <algorithm>
 #include <iterator>
 
-int main()
+
+// 把main_*() 改为main()再运行
+int main_setops()
 {
     using namespace std;
     const int N = 6;
