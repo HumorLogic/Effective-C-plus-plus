@@ -4,7 +4,7 @@
 1. [【STL介绍】](#intro)
 2. [【容器】](#container)
 3. [【迭代器】](#iterator)
-4. [【函数对象】](#funcotr)
+4. [【函数对象】](#functor)
 5. [【算法】](#algorithm)
 
 ------------
@@ -212,7 +212,7 @@ double y2 = f2(0.4);
 
 --------------
 
-<a id="functor"></a>
+<a id="algorithm"></a>
 
 ## 6. 算法
 
