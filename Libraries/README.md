@@ -16,3 +16,9 @@
 
 ## 原子和线程库
 
+<table>
+    <th width="100" align="center">库</th><th width="500" align="center">说明</th>
+<tr><td><code>&lt;mutex&gt</code></td><td>多个线程访问同一资源时，为了保证数据的一致性，最简单的方式就是使用 mutex（互斥锁）</td></tr>
+</table>
+
+
