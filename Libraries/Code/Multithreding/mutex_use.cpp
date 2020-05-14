@@ -14,7 +14,8 @@ void print_block(int n, char c) {
 	mtx.unlock();
 }
 
-int main() {
+// 把main_*() 改为main()再运行
+int main_mutex() {
 	thread th1(print_block, 50, '*');
 	thread th2(print_block, 50, '$');
 
