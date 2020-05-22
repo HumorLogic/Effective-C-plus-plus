@@ -20,7 +20,7 @@
 <table>
     <th width="200" align="center">库</th><th width="500" align="center">说明</th>
 <tr><td><code><b>&lt;cassert&gt(assert.h)</b></code></td><td>C诊断库</td></tr>
-<tr><td><code><b>&lt;future&gt</b></code></td><td>std::future可以从异步任务中获取结果，一般与std::async配合使用，std::async用于创建异步任务，实际上就是创建一个线程执行相应任务。</td></tr>
+<tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
 
 </table>
 
