@@ -23,7 +23,7 @@
 <tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
 <tr><td><code><b>&lt;cerrno&gt(eerrno.h)</b></code></td><td>C 错误库</td></tr>
 <tr><td><code><b>&lt;cfenv&gt(fenv.h)</b></code></td><td>浮点环境</td></tr>
-<tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
+<tr><td><code><b>&lt;cfloat&gt(float.h)</b></code></td><td>浮点类型特征</td></tr>
 <tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
 <tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
 </table>
