@@ -13,15 +13,19 @@
 ------------
 
 
+<a id="clib"></a>
 
 ## C 库
-
 
 <table>
     <th width="200" align="center">库</th><th width="500" align="center">说明</th>
 <tr><td><code><b>&lt;cassert&gt(assert.h)</b></code></td><td>C诊断库</td></tr>
 <tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
-
+<tr><td><code><b>&lt;cerrno&gt(eerrno.h)</b></code></td><td>C 错误库</td></tr>
+<tr><td><code><b>&lt;cfenv&gt(fenv.h)</b></code></td><td>浮点环境</td></tr>
+<tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
+<tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
+<tr><td><code><b>&lt;cctype&gt(ctype.h)</b></code></td><td>字符处理库</td></tr>
 </table>
 
 
